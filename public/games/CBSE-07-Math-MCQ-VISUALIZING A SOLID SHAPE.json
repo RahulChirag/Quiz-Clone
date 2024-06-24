@@ -1,0 +1,135 @@
+{
+    "gameTitle": "VISUALIZING A SOLID SHAPE",
+    "gameType": "MCQ",
+    "eachQuestionDuration": null,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "What is a net in the context of building 3D shapes?",
+            "options": [
+                "A type of shadow",
+                "A 2D skeleton-outline that can be folded into a 3D shape",
+                "A type of oblique sketch",
+                "A 3D representation of a 2D shape"
+            ],
+            "optionImages": null,
+            "answer": [
+                "A 2D skeleton-outline that can be folded into a 3D shape"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "Which type of sketch does not have proportional lengths but conveys all important aspects of the appearance of a solid shape?",
+            "options": [
+                "Isometric sketch",
+                "Oblique sketch",
+                " Perspective sketch",
+                "Orthographic sketch"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Oblique sketch"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "When observing a 2D shadow of a 3D shape, what information can be obtained? ",
+            "options": [
+                "Length, width, and height",
+                "Circumference, diameter, and radius",
+                "Faces, vertices, and edges",
+                "Front-view, side-view, and top-view"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Faces, vertices, and edges"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "What is the purpose of slicing a solid shape",
+            "options": [
+                "To create nets for building 3D shapes",
+                "To view different sections of the shape",
+                "To cast a 2D shadow of the shape",
+                "To measure the volume of the shape"
+            ],
+            "optionImages": null,
+            "answer": [
+                "To view different sections of the shape"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "Why are isometric sketches considered more challenging to create than oblique sketches?",
+            "options": [
+                "Isometric sketches require advanced mathematical calculations",
+                "Isometric sketches involve maintaining proportional measurements",
+                "Oblique sketches have more details to consider",
+                "Oblique sketches are more realistic"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Isometric sketches involve maintaining proportional measurements"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": "I have 12-line segments and 8 corners,\nMy skin is made of 6 square faces, no borders.\nWhat am I, can you tell?\nVisualize me well.",
+            "options": [
+                "Sphere",
+                "Cube",
+                "Cylinder",
+                "Pyramid"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Cube"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": "My faces are not all the same,\nCurved and straight, they play a game.\nI have no corners, only one edge,\nWhat am I, take a pledge.",
+            "options": [
+                "Sphere",
+                "Cube",
+                "Cylinder",
+                "Cone"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Cylinder"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": "I have 8 vertices and 12 edges to show,\nMy faces are like triangles in a row.\nWhen you stack me up, I look like a peak,\nWhat am I, take a peek.",
+            "options": [
+                "Cube",
+                "Tetrahedron",
+                "Pyramid",
+                "Octahedron"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Pyramid"
+            ],
+            "Trivia": null
+        }
+    ]
+}

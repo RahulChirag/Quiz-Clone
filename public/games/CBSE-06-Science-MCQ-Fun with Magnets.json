@@ -1,0 +1,132 @@
+{
+    "gameTitle": "Fun with Magnets",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "What do two similar poles of magnets do?",
+            "options": [
+                "Attract & Repel",
+                "Repel",
+                "Spin & Stick",
+                "Stick"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Repel"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "What happens when a magnet is heated?",
+            "options": [
+                "Becomes stronger",
+                "Loses properties",
+                "Attracts more",
+                "Changes color"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Loses properties"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "What does a compass do near a magnet?",
+            "options": [
+                "Points to North",
+                "Stops working",
+                "Spins in circles",
+                "Points to South"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Points to North"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "What occurs when opposite poles of magnets meet?",
+            "options": [
+                "Repel & Ignore",
+                "Attract",
+                "Ignore",
+                "Dance"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Attract"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "What happens when a magnet is hammered?",
+            "options": [
+                "Becomes colourful",
+                "Becomes weak",
+                "Makes noise",
+                "Attracts more"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Becomes weak"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": "What do you call a magnet that doesn't attract anything?",
+            "options": [
+                "A lazy magnet",
+                "A picky magnet",
+                "A repulsive magnet"
+            ],
+            "optionImages": null,
+            "answer": [
+                "A lazy magnet"
+            ],
+            "Trivia": "because it just doesn't feel like attracting anyone today!"
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": "Why did the magnet break up with the compass?",
+            "options": [
+                "They had opposite poles",
+                "The attraction faded away",
+                "It found a stronger force"
+            ],
+            "optionImages": null,
+            "answer": [
+                "The attraction faded away"
+            ],
+            "Trivia": "their relationship just lost its direction!"
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": "What did the north pole say to the south pole when they met?",
+            "options": [
+                "We should stick together.",
+                "You're so attractive.",
+                "Let's repel each other."
+            ],
+            "optionImages": null,
+            "answer": [
+                "\"We should stick together.\""
+            ],
+            "Trivia": "because opposites attract!"
+        }
+    ]
+}

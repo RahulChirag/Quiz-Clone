@@ -1,0 +1,135 @@
+{
+    "gameTitle": "MOTION AND TIME",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "What is the basic unit of speed?",
+            "options": [
+                "Meter per second",
+                "Kilometer per hour",
+                "Centimeter per minute",
+                "Inch per second"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Meter per second"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "Which motion is represented by a straight distance-time graph?",
+            "options": [
+                "Uniform motion",
+                "Non-uniform motion",
+                "Oscillatory motion",
+                "Circular motion"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Uniform motion"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "What is the time period of a simple pendulum that takes 32 s for 20 oscillations?",
+            "options": [
+                "1.6 s",
+                "1.8 s",
+                "2.0 s",
+                "2.2 s"
+            ],
+            "optionImages": null,
+            "answer": [
+                "1.6 s"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "How do we calculate speed?",
+            "options": [
+                "Distance / Time",
+                "Time x Distance",
+                "Time - Distance",
+                "Distance + Time"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Distance / Time"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "Which object is an example of oscillatory motion?",
+            "options": [
+                "Hands of a clock",
+                "Car on a straight road",
+                "Train on a bridge",
+                "Child on a swing"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Child on a swing"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": "I measure how fast an object moves, Dividing distance by time proves, I'm used to compare who's quicker, What am I called, a real time kicker?",
+            "options": [
+                "distance",
+                "time",
+                "velocity",
+                "speed"
+            ],
+            "optionImages": null,
+            "answer": [
+                "speed"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": "Swinging back and forth, in a steady flow, A timekeeper's friend, to and fro, What am I, with a constant time span, In clocks and watches, a crucial plan?",
+            "options": [
+                "clock",
+                "simple pendulum",
+                "watch",
+                "swing"
+            ],
+            "optionImages": null,
+            "answer": [
+                "simple pendulum"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": "Covering ground, near and far, Time and distance, like a shining star, What am I, in meters or in miles, Calculating my value, it always compiles?",
+            "options": [
+                "distance",
+                "time",
+                "velocity",
+                "speed"
+            ],
+            "optionImages": null,
+            "answer": [
+                "distance"
+            ],
+            "Trivia": null
+        }
+    ]
+}

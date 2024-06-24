@@ -1,0 +1,134 @@
+{
+    "gameTitle": "Integers",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "What is the additive inverse of -8?",
+            "options": [
+                "8",
+                "-8",
+                "0],{-1"
+            ],
+            "optionImages": null,
+            "answer": [
+                "8"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "What is the result of (-6) + (-3)?",
+            "options": [
+                "-3",
+                "9",
+                "-9",
+                "3"
+            ],
+            "optionImages": null,
+            "answer": [
+                "9"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "Which is the smallest negative integer?",
+            "options": [
+                "-1",
+                "-5",
+                "-10",
+                "-100"
+            ],
+            "optionImages": null,
+            "answer": [
+                "-100"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "What is the product of -7 and -9?",
+            "options": [
+                "63",
+                "-63",
+                "16",
+                "-16"
+            ],
+            "optionImages": null,
+            "answer": [
+                "63"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "What is the sum of the first 5 positive integers?",
+            "options": [
+                "10",
+                "15",
+                "5",
+                "20"
+            ],
+            "optionImages": null,
+            "answer": [
+                "15"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": "Why was the 0 afraid of the negative numbers?",
+            "options": [
+                "Because they were always in the shade",
+                "Because they had too many issues",
+                "Because they were all odd",
+                "Because they always made a negative impact"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Because they always made a negative impact"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": "What did the number 5 say to the number 2 during math class?",
+            "options": [
+                "You're too even for me!",
+                "Stop being so negative!",
+                "Let's divide and conquer!",
+                "I'm always odd around you!"
+            ],
+            "optionImages": null,
+            "answer": [
+                "\"You're too even for me!\""
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": "Why was the number 1 always confident at the integer party?",
+            "options": [
+                "Because 1 was always positive",
+                "Because 1 knew it was the prime number",
+                "Because 1 didn't need to be rational",
+                "Because 1 could handle any problem"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Because 1 was always positive"
+            ],
+            "Trivia": null
+        }
+    ]
+}

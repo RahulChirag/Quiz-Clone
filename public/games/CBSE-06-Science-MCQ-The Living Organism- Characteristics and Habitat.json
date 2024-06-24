@@ -1,0 +1,132 @@
+{
+    "gameTitle": "The Living Organism- Characteristics and Habitat",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "What is a habitat?",
+            "options": [
+                "Place where animals live",
+                "Type of food animals eat",
+                "Type of tree",
+                "Type of rock"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Place where animals live"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "How are cactus adapted to survive in a desert?",
+            "options": [
+                "Long roots",
+                "Thick stems",
+                "Spines",
+                "All of the above"
+            ],
+            "optionImages": null,
+            "answer": [
+                "All of the above"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "What is the term for the presence of specific features enabling an organism to live in a habitat?",
+            "options": [
+                "Adaptation",
+                "Migration",
+                "Hibernation",
+                "Camouflage"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Adaptation"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "Which of the following are abiotic factors of a habitat?",
+            "options": [
+                "Trees",
+                "Water",
+                "Birds",
+                "Ants"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Water"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "What is a common characteristic of living things?",
+            "options": [
+                "Need for food",
+                "Respiration",
+                "Reproduction",
+                "All of the above"
+            ],
+            "optionImages": null,
+            "answer": [
+                "All of the above"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": "I am a furry mammal, Living high up in the mountains. Do you think I am a:",
+            "options": [
+                "Goat",
+                "Tiger",
+                "Rabbit"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Goat"
+            ],
+            "Trivia": "Because I love to climb and chew on everything!"
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": "I dwell in the scorching desert, With thorns all over my skin. Am I a:",
+            "options": [
+                "Camel",
+                "Snake",
+                "Cactus"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Cactus"
+            ],
+            "Trivia": "I may look prickly, but I store water like a pro!"
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": "I swim in the salty sea, With claws and shells so neat. Could I be a:",
+            "options": [
+                "Dolphin",
+                "Crab",
+                "Jellyfish"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Crab"
+            ],
+            "Trivia": "I may walk sideways, but I'm always ready for a shellabration!"
+        }
+    ]
+}

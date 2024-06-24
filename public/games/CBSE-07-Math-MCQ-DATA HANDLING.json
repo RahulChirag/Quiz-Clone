@@ -1,0 +1,135 @@
+{
+    "gameTitle": "DATA HANDLING",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "What is the formula to calculate the mean of a set of data?",
+            "options": [
+                "Sum of all values / Number of values",
+                "Middle value of the data set",
+                "Most frequently occurring value",
+                "Total value squared"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Sum of all values / Number of values"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "In a data set, if there are two modes, the data is considered:",
+            "options": [
+                "Unimodal",
+                "Bimodal",
+                "Multimodal",
+                "No mode present"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Bimodal"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "The median of the data set: {5, 8, 10, 12, 15, 20, 25} is: ",
+            "options": [
+                "10",
+                "12",
+                "15",
+                "20"
+            ],
+            "optionImages": null,
+            "answer": [
+                "15"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "A bar graph is used to represent: ",
+            "options": [
+                "Mean",
+                "Mode",
+                "Median",
+                "Frequency distribution"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Frequency distribution"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "In a double bar graph, the bars are used to compare:",
+            "options": [
+                " Mean and Mode",
+                "Two different data sets",
+                "Median and Range",
+                "Interquartile range and Standard deviation"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Two different data sets"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": " I am the middle number in a set of data when arranged in ascending or descending order. I divide the data into two equal parts. What am I?",
+            "options": [
+                "Mean",
+                "Mode",
+                "Median",
+                "Range"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Median"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": "I am the number that occurs most frequently in a set of data. I represent the highest frequency. What am I?",
+            "options": [
+                "Mean",
+                "Mode",
+                "Median",
+                "Range"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Mode"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": " I am the difference between the largest and smallest numbers in a set of data. I give an idea of how spread out the numbers are. What am I?",
+            "options": [
+                "Range",
+                "Variance",
+                "Standard Deviation",
+                "Interquartile Range (IQR)"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Range"
+            ],
+            "Trivia": null
+        }
+    ]
+}

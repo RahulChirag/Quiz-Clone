@@ -1,0 +1,135 @@
+{
+    "gameTitle": "RESPIRATION IN ORGANISMS",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "Why do we breathe faster during exercise?",
+            "options": [
+                "To get more oxygen",
+                "To release energy",
+                "To increase lung capacity",
+                "To remove carbon dioxide"
+            ],
+            "optionImages": null,
+            "answer": [
+                " To get more oxygen"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "Which substance is used to neutralize excess stomach acid?",
+            "options": [
+                "Lactic acid fermentation",
+                "Alcoholic fermentation",
+                "Acetic acid fermentation",
+                "Butyric acid fermentation"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Alcoholic fermentation"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "What happens during inhalation?",
+            "options": [
+                "Lungs expand",
+                "Ribs move in",
+                "Diaphragm relaxes",
+                "Air moves out"
+            ],
+            "optionImages": null,
+            "answer": [
+                " Lungs expand"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "What is the normal range of breathing per minute in an average adult?",
+            "options": [
+                "12-20 breaths per minute",
+                "30-40 breaths per minute",
+                "50-60 breaths per minute",
+                "70-80 breaths per minute"
+            ],
+            "optionImages": null,
+            "answer": [
+                "12-20 breaths per minute"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "Where does the transfer of oxygen into the bloodstream take place?",
+            "options": [
+                "Lungs",
+                "Lungs",
+                "Heart",
+                "Kidneys"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Lungs"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": "I am the tube that carries air to and from the lungs.",
+            "options": [
+                "alveoli",
+                "bronchioles",
+                "Trachea",
+                "alimentary canal"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Trachea"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": "I am the type of respiration that occurs in the absence of oxygen, often during heavy exercise.",
+            "options": [
+                "aerobic respiration",
+                "anaerobic respiration",
+                "inhalation",
+                "exhalation"
+            ],
+            "optionImages": null,
+            "answer": [
+                "anaerobic respiration"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": "I'm a passage, not meant for food, air I carry, and I'm understood. What am I? ",
+            "options": [
+                "pharynx",
+                "ureters",
+                "Trachea",
+                "vein"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Trachea"
+            ],
+            "Trivia": null
+        }
+    ]
+}

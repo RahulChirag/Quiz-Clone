@@ -1,0 +1,135 @@
+{
+    "gameTitle": "FRACTIONS AND DECIMALS",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "If you divide 31.5 by 1000, what is the result?",
+            "options": [
+                "3.15",
+                "315",
+                "0.315",
+                "0.0315"
+            ],
+            "optionImages": null,
+            "answer": [
+                "0.0315"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "What should be added to 4.176 to get 8",
+            "options": [
+                "3.234",
+                "3.824",
+                "3.197",
+                "2.654"
+            ],
+            "optionImages": null,
+            "answer": [
+                "3.824"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "A bakery sold 3/4 of a cake in the morning and another 1/8 of the cake in the afternoon. What fraction of the cake was left unsold?",
+            "options": [
+                "\u00bd",
+                "3/8",
+                "1/4",
+                "5/8"
+            ],
+            "optionImages": null,
+            "answer": [
+                "\u215d"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "convert 59\u204412 into decimal fraction.",
+            "options": [
+                "0.75",
+                "57.5",
+                "035",
+                "5.75"
+            ],
+            "optionImages": null,
+            "answer": [
+                "5.75"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "  To divide a decimal number by 100, what do you do with the decimal point?",
+            "options": [
+                "Move it to the left by 2 places",
+                "Move it to the right by 1 place",
+                "Move it to the right by 2 places",
+                "Move it to the left by 1 place"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Move it to the left by 2 places"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": "I am a decimal number that represents a value between two whole numbers. I am often used in measurements and money. What am I?",
+            "options": [
+                "A whole number",
+                "A fraction",
+                "A decimal",
+                "A percentage"
+            ],
+            "optionImages": null,
+            "answer": [
+                "A decimal"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": "I am a decimal, Between 0 and 1, I dwell. My digits add up to 10, And I'm not a repeating trend. What decimal am I?",
+            "options": [
+                "0.19",
+                "0.28",
+                "0.73",
+                "0.46"
+            ],
+            "optionImages": null,
+            "answer": [
+                "0.73"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": "I am a fraction, Proper and prime in action. My numerator and denominator are both odd, And when simplified, I'm not flawed. What fraction am I?",
+            "options": [
+                "4/9",
+                "3/7 ",
+                "7/11",
+                "3/5"
+            ],
+            "optionImages": null,
+            "answer": [
+                "3/7 "
+            ],
+            "Trivia": null
+        }
+    ]
+}

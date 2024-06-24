@@ -1,0 +1,132 @@
+{
+    "gameTitle": "Decimal",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "What is 0.5 + 0.3?",
+            "options": [
+                "0.8",
+                "0.6",
+                "0.7",
+                "0.9"
+            ],
+            "optionImages": null,
+            "answer": [
+                "0.8"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "Express 25 paise in decimals.",
+            "options": [
+                "0.20",
+                "0.25",
+                "0.30",
+                "0.50"
+            ],
+            "optionImages": null,
+            "answer": [
+                "0.25"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "Subtract 0.75 from 2.50.",
+            "options": [
+                "1.75",
+                "1.25",
+                "1.50",
+                "2.00"
+            ],
+            "optionImages": null,
+            "answer": [
+                "1.25"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "What is the sum of 0.45, 0.32, and 0.08?",
+            "options": [
+                "0.82",
+                "0.85",
+                "0.75",
+                "0.85"
+            ],
+            "optionImages": null,
+            "answer": [
+                "0.85"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "Write 3.75 in words.",
+            "options": [
+                "Three point seven five",
+                "Three point five",
+                "Three point eight",
+                "Three point two"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Three point seven five"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": "Riddle: Why did the decimal go to school?",
+            "options": [
+                "To become a \"point\"er",
+                "To be a \"decimal\"icious student",
+                "To learn how to \"divide\" and conquer"
+            ],
+            "optionImages": null,
+            "answer": [
+                "To become a \"point\"er"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": "What did the decimal say to the whole number?",
+            "options": [
+                "\"You're not my \"type.\"",
+                "\"Let's \"add\" some fun together.\"",
+                "\"Together, we're a \"fraction\" of a good time.\""
+            ],
+            "optionImages": null,
+            "answer": [
+                "\"Let's \"add\" some fun together.\""
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": "What did the decimal say to the fraction when they had a disagreement?",
+            "options": [
+                "\"Let's \"multiply\" our efforts to solve this.\"",
+                "\"You're not half as \"decimal\"ightful as me.\"",
+                "\"We need to find a common \"denominator.\""
+            ],
+            "optionImages": null,
+            "answer": [
+                "\"We need to find a common \"denominator.\""
+            ],
+            "Trivia": null
+        }
+    ]
+}

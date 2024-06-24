@@ -1,0 +1,135 @@
+{
+    "gameTitle": "INTEGERS",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "Sachin scored twice as many runs as Rahul. Together, their runs fell two short of a double century. If Sachin scored 80 runs, how many runs did Rahul score?",
+            "options": [
+                "30",
+                "40",
+                "50",
+                "60"
+            ],
+            "optionImages": null,
+            "answer": [
+                "50"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "{\u221223 \u2212 (\u221234)} + {\u221215 + (\u221225)} = _____.",
+            "options": [
+                "11",
+                "40",
+                "29",
+                "-29"
+            ],
+            "optionImages": null,
+            "answer": [
+                "-29"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "Additive inverse of zero is _____.",
+            "options": [
+                "0",
+                "1",
+                "-1",
+                "None of these"
+            ],
+            "optionImages": null,
+            "answer": [
+                "0"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "What will be the sign of the product if we multiply 75 negative integers and 10 positive integers?",
+            "options": [
+                "Negative",
+                "Positive",
+                "Both a and b",
+                "None of these"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Negative"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "Puzzle: I am a mystery number. When you add me to -15, you get 25. What am I?",
+            "options": [
+                "65",
+                "50",
+                "40",
+                "15"
+            ],
+            "optionImages": null,
+            "answer": [
+                "40"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": "Puzzle: I am thinking of a number. If you subtract -8 from my number and then subtract 20 from the result, you get 15. What is my number?",
+            "options": [
+                "19",
+                "7",
+                "5450",
+                "-12"
+            ],
+            "optionImages": null,
+            "answer": [
+                "7"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": "Puzzle: The product of two negative integers is -56. If one of the integers is -8, what is the other integer?",
+            "options": [
+                "19",
+                "7",
+                "45",
+                "-12"
+            ],
+            "optionImages": null,
+            "answer": [
+                "7"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": "Puzzle: If you divide -60 by a certain integer, the result is 4. What is the integer you divided by?",
+            "options": [
+                "-15",
+                "-30",
+                "-6",
+                "-18"
+            ],
+            "optionImages": null,
+            "answer": [
+                "-15"
+            ],
+            "Trivia": null
+        }
+    ]
+}

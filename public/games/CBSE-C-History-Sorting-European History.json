@@ -1,0 +1,35 @@
+{
+  "gameTitle": "European History",
+  "gameType": "Sorting",
+  "eachQuestionDuration": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is not a component of food?",
+      "types": ["Fruits", "Vegetables"],
+      "options": [
+        {
+          "type": "Fruits",
+          "value": "https://static.vecteezy.com/system/resources/thumbnails/036/152/966/small/fruit-strawberry-isolated-with-clipping-path-png.png"
+        },
+        {
+          "type": "Vegetables",
+          "value": "https://png.pngtree.com/png-clipart/20190116/ourmid/pngtree-purple-onion-vegetables-fruit-png-image_376869.jpg"
+        },
+        {
+          "type": "Fruits",
+          "value": "https://c0.klipartz.com/pngpicture/867/336/gratis-png-plato-hierba-perejil-raiz-vegetal-alimento-vegetal-thumbnail.png"
+        },
+        {
+          "type": "Fruits",
+          "value": "https://static.vecteezy.com/system/resources/thumbnails/008/532/596/small/kiwi-fruit-cutout-file-png.png"
+        },
+        {
+          "type": "Vegetables",
+          "value": "https://banner2.cleanpng.com/20190323/zgr/kisspng-vegetable-fruit-tomato-juice-food-cherry-tomato-vegetable-food-clip-art-png-search-5c960d507b1268.2076771115533376805041.jpg"
+        }
+      ],
+      "trivia": "This famous line is from Hamlet, Act III, Scene I."
+    }
+  ]
+}

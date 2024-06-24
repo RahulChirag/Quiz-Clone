@@ -1,0 +1,135 @@
+{
+    "gameTitle": "SYMMETRY",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "Which regular polygon has the highest number of lines of symmetry?",
+            "options": [
+                "Triangle",
+                "Pentagon",
+                "Hexagon",
+                "Octagon"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Pentagon"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "What is the order of rotational symmetry for an equilateral triangle?",
+            "options": [
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "optionImages": null,
+            "answer": [
+                "3"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "What is the angle of rotation for a quarter-turn?",
+            "options": [
+                "Triangle",
+                "90 degrees",
+                "180 degrees",
+                "360 degrees"
+            ],
+            "optionImages": null,
+            "answer": [
+                "90 degrees"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "Which of the following shapes has an order of rotational symmetry higher than 1 but less than its number of sides?",
+            "options": [
+                "Equilateral Triangle",
+                "Square",
+                "Pentagon",
+                "Octagon"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Equilateral Triangle"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "The center of rotation is the fixed point around which a figure:",
+            "options": [
+                "Expands",
+                "Contracts",
+                "Rotates",
+                "Translates"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Rotates"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": "In a regular polygon, I exist, Lines of symmetry, I persist.\nI'm the center of rotation, can you see?\nMy order of symmetry, what could it be?",
+            "options": [
+                "Vertex",
+                "Side",
+                "Perpendicular bisector",
+                "Center of rotation"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Center of rotation"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": "A shape with symmetry that's quite keen,\nLines and rotations, it's often seen.\nAngles of 108, its sides are all fine,\nWhat am I, in the geometry line?",
+            "options": [
+                "Hexagon",
+                "Square",
+                "Pentagon",
+                "Triangle"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Pentagon"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": "For a square, I have 4 sides,\nLines of symmetry, I abide.\nRotating around, I never stray,\nMy angle of rotation, what do you say?",
+            "options": [
+                "45 degrees",
+                "60 degrees",
+                "90 degrees",
+                "120 degrees"
+            ],
+            "optionImages": null,
+            "answer": [
+                "90 degrees"
+            ],
+            "Trivia": null
+        }
+    ]
+}

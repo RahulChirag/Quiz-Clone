@@ -1,0 +1,135 @@
+{
+    "gameTitle": "HEAT",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "Why do we feel more comfortable in light-colored clothes in summer?",
+            "options": [
+                "They absorb more heat",
+                "They reflect heat",
+                "They cool down faster",
+                "They trap air"
+            ],
+            "optionImages": null,
+            "answer": [
+                "They Reflect heat"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "What is the normal human body temperature? \n",
+            "options": [
+                "35\u00b0C",
+                "37\u00b0C",
+                "40\u00b0C",
+                "42\u00b0C"
+            ],
+            "optionImages": null,
+            "answer": [
+                "37\u00b0C"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "Why are woolen clothes effective in keeping us warm? ",
+            "options": [
+                "They trap air",
+                "They reflect heat",
+                "They absorb heat",
+                "They are thin"
+            ],
+            "optionImages": null,
+            "answer": [
+                "They trap air"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "What is the reason behind painting outer walls of houses white in hot climates?",
+            "options": [
+                "To absorb more heat",
+                "To reflect heat",
+                "To trap heat",
+                "To increase humidity "
+            ],
+            "optionImages": null,
+            "answer": [
+                "To reflect heat"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "What kind of heat transfer occurs when a cold steel spoon is dipped in hot milk? ",
+            "options": [
+                "Conduction",
+                "Convection",
+                "Radiation",
+                "Absorption"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Conduction"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": " I am a method of heat transfer in solids, Passing through materials, I make them warm and cold. Metals are good at me, passing heat with ease, What am I called? Think about it, please.",
+            "options": [
+                "conduction",
+                "convection",
+                "radiation",
+                "Insulation"
+            ],
+            "optionImages": null,
+            "answer": [
+                "conduction"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": " In liquids and gases, I like to flow, Moving heat around, high and low. Hot air rises, cold air falls, What am I known as? Answer my calls.",
+            "options": [
+                "conduction",
+                "convection",
+                "radiation",
+                "Insulation"
+            ],
+            "optionImages": null,
+            "answer": [
+                "conduction"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": "No medium I need to travel through, Invisible waves that warm you. From the sun to your skin, I make things hot, What am I? Think a lot",
+            "options": [
+                "conduction",
+                "convection",
+                "radiation",
+                "Insulation"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Radiation"
+            ],
+            "Trivia": null
+        }
+    ]
+}

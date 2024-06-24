@@ -1,0 +1,132 @@
+{
+    "gameTitle": "Basic Geometrical Ideas",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "What does \"Geo\" in Geometry stand for?",
+            "options": [
+                "Measure",
+                "Earth",
+                "Shape",
+                "Space"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Earth"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "What shape do 3 matchsticks form?",
+            "options": [
+                "Square",
+                "Triangle",
+                "Line",
+                "Circle"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Triangle"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "What best defines a point in geometry?",
+            "options": [
+                "A line with infinite length",
+                "A location with no dimension",
+                "A plane without width",
+                "A circle with no radius"
+            ],
+            "optionImages": null,
+            "answer": [
+                "A location with no dimension"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "How many end points does a line segment have?",
+            "options": [
+                "One",
+                "Two",
+                "Three",
+                "Infinite"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Two"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "Which shape does not have a flat top?",
+            "options": [
+                "Cylinder",
+                "Cube",
+                "Sphere",
+                "Pyramid"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Sphere"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": "I start at a point, Go long in one stretch, But if you look for my end, There's another I fetch. What am I?",
+            "options": [
+                "Line segment",
+                "Line",
+                "Curve"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Line"
+            ],
+            "Trivia": "A Line. Because my social life has more ends than I do."
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": "I'm a shape that's really neat, Three corners and three sides so sweet. What am I, can you conjecture? With sides so few, I'm quite the structure.",
+            "options": [
+                "Square",
+                "Rectangle",
+                "Triangle},"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Triangle"
+            ],
+            "Trivia": "A Triangle. Because I'm dieting, I always count to three and stop."
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": "With no width, no depth to see, I'm the thinnest, can't you agree? In geometry, I'm quite the star, Tell me, what do you think I are?",
+            "options": [
+                "Line",
+                "Angle",
+                "Line Segment"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Line Segment"
+            ],
+            "Trivia": "A Line Segment. Because I'm like a diet plan, straight and with clear boundaries."
+        }
+    ]
+}

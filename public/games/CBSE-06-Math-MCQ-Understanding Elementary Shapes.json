@@ -1,0 +1,132 @@
+{
+    "gameTitle": "Understanding Elementary Shapes",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "What angle do you face after turning clockwise from north to east?",
+            "options": [
+                "90 degrees",
+                "45 degrees",
+                "180 degrees",
+                "270 degrees"
+            ],
+            "optionImages": null,
+            "answer": [
+                "90 degrees"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "Which angle is formed by turning from north to south?",
+            "options": [
+                "Acute",
+                "Obtuse",
+                "Right",
+                "Straight"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Straight"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "What is the name of the angle for half a revolution?",
+            "options": [
+                "Acute angle",
+                "Obtuse angle",
+                "Straight angle",
+                "Right angle"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Straight angle"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "How many right angles do you turn from north to south?",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "optionImages": null,
+            "answer": [
+                "2"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "What is an angle smaller than a right angle called?",
+            "options": [
+                "Obtuse angle",
+                "Staright angle",
+                "Acute angle",
+                "Right angle"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Acute angle"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": "Why did the angle go to the beach?",
+            "options": [
+                "To catch some rays",
+                "To find the right wave",
+                "To measure the sandcastles"
+            ],
+            "optionImages": null,
+            "answer": [
+                "To catch some rays"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": "How did the obtuse angle get a job?",
+            "options": [
+                "It had acute networking skills",
+                "It was always right",
+                "It was well-rounded"
+            ],
+            "optionImages": null,
+            "answer": [
+                "It had acute networking skills"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": "Why did the circle break up with the angle?",
+            "options": [
+                "It couldn't handle the curves",
+                "The angle was too straight",
+                "They just couldn't find the right degree"
+            ],
+            "optionImages": null,
+            "answer": [
+                "They just couldn't find the right degree"
+            ],
+            "Trivia": null
+        }
+    ]
+}

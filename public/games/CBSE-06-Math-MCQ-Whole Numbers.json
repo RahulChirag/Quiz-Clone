@@ -1,0 +1,135 @@
+{
+    "gameTitle": "Whole Numbers",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "How many whole numbers are there from 1 to 10?",
+            "options": [
+                "10",
+                "11",
+                "8",
+                "9"
+            ],
+            "optionImages": null,
+            "answer": [
+                "10"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "What is the predecessor of 10009?",
+            "options": [
+                "10001",
+                "10100",
+                "10010",
+                "10000"
+            ],
+            "optionImages": null,
+            "answer": [
+                "10010"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "How many whole numbers are there between 10 and 20?",
+            "options": [
+                "8",
+                "9",
+                "10",
+                "11"
+            ],
+            "optionImages": null,
+            "answer": [
+                "9"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "If you add 0 to natural numbers, what do you get?",
+            "options": [
+                "Integers",
+                "Whole Numbers",
+                "Rational Numbers",
+                "Fractions"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Whole Numbers"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "What is the successor of 208099?",
+            "options": [
+                "208098",
+                "208100",
+                "208010",
+                "201099"
+            ],
+            "optionImages": null,
+            "answer": [
+                "208100"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": "I am greater than 20 but less than 30. I am divisible by 2, 3, and myself. What number am I?",
+            "options": [
+                "22",
+                "24",
+                "26",
+                "28"
+            ],
+            "optionImages": null,
+            "answer": [
+                "24"
+            ],
+            "Trivia": "Because 24 is even, ends in 4, and can be divided by 2, 3, and 24 itself!"
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": ". Imagine I invited all the whole numbers from 1 to 10 to a grand party at my place. Everyone showed up except one number, which was feeling a bit \"odd\" that day and decided to stay home. Which number missed the party?",
+            "options": [
+                "2",
+                "7",
+                "8",
+                "10"
+            ],
+            "optionImages": null,
+            "answer": [
+                "7"
+            ],
+            "Trivia": "Because 7 felt \"odd\" and it's the only odd number from the options that decided not to show up."
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": "I am an odd number. Take away one letter and I become even. What number am I?",
+            "options": [
+                "7",
+                "3",
+                "1",
+                "11"
+            ],
+            "optionImages": null,
+            "answer": [
+                "7"
+            ],
+            "Trivia": "Why? Because if you take the \"s\" out of \"seven\", you're left with \"even\". Isn't it odd how letters can change numbers?"
+        }
+    ]
+}

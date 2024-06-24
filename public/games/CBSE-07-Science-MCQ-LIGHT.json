@@ -1,0 +1,135 @@
+{
+    "gameTitle": "LIGHT",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "What kind of image is formed by a concave lens?",
+            "options": [
+                "Real",
+                "Virtual",
+                "Inverted",
+                "Erect"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Virtual"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "Which mirror is used as a side mirror in automobiles?",
+            "options": [
+                "Concave",
+                "Convex",
+                "Plane",
+                "Spherical"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Convex"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "Which mirror is used by dentists to see enlarged teeth?",
+            "options": [
+                "Concave",
+                "Convex",
+                "Plane",
+                "Spherical"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Concave"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "In a rainbow, what colors are usually observed?",
+            "options": [
+                "Red, Green, Blue",
+                "Pink, Purple, Yellow",
+                "Red, Orange, Yellow",
+                "Black, White, Brown"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Red, Orange, Yellow"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "What is the type of image formed by a prism?",
+            "options": [
+                "Real",
+                "Virtual",
+                "Inverted",
+                "Erect"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Virtual"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": "Curved inward, I reflect light, Images that are upright, Used in makeup mirrors to see clear, What mirror am I, have no fear?",
+            "options": [
+                "convex lens",
+                "concave lens",
+                "Convex mirror",
+                "Concave Mirror"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Concave Mirror"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": "I'm a glass that bends light beams, Rainbow colors in my dreams, Splitting sunlight into seven hues, What am I, giving colorful clues?",
+            "options": [
+                "Rainbow",
+                "Prism",
+                "mirror",
+                "disc"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Prism"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": "I'm a lens that bulges out, Creating images without a doubt, Magnifying small objects near and far. What lens am I, a helpful star?",
+            "options": [
+                "convex lens",
+                "concave lens",
+                "Convex mirror",
+                "concave mirror"
+            ],
+            "optionImages": null,
+            "answer": [
+                "convex lens"
+            ],
+            "Trivia": null
+        }
+    ]
+}

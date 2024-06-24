@@ -1,0 +1,106 @@
+{
+  "gameTitle": "Algebra",
+  "gameType": "MCQ",
+  "eachQuestionDuration": 30,
+  "questions": [
+    {
+      "id": 1,
+      "questionImage": null,
+      "question": "What does the branch of algebra primarily use?",
+      "options": ["Numbers", "Letters", "Shapes", "Operations"],
+      "optionImages": null,
+      "answer": ["Letters", "Operations"],
+      "Trivia": null
+    },
+    {
+      "id": 2,
+      "questionImage": null,
+      "question": "What do letters in algebra stand for?",
+      "options": [
+        "Known quantities",
+        "Shapes",
+        "Unknown quantities",
+        "Operations"
+      ],
+      "optionImages": null,
+      "answer": ["Unknown quantities"],
+      "Trivia": null
+    },
+    {
+      "id": 3,
+      "questionImage": null,
+      "question": "What can be performed on letters in algebra?",
+      "options": ["Division", "Multiplication", "Subtraction", "Combined"],
+      "optionImages": null,
+      "answer": ["Multiplication"],
+      "Trivia": null
+    },
+    {
+      "id": 4,
+      "questionImage": null,
+      "question": "How do letters help in solving problems?",
+      "options": [
+        "By creating shapes",
+        "By adding complexity",
+        "By representing numbers",
+        "By avoiding calculations"
+      ],
+      "optionImages": null,
+      "answer": ["By representing numbers"],
+      "Trivia": null
+    },
+    {
+      "id": 5,
+      "questionImage": null,
+      "question": "What does using letters in algebra allow?",
+      "options": [
+        "Specific numbers only",
+        "General rules and formulas",
+        "Shapes and patterns",
+        "Letters for decoration"
+      ],
+      "optionImages": null,
+      "answer": ["General rules and formulas"],
+      "Trivia": null
+    },
+    {
+      "id": 6,
+      "questionImage": null,
+      "question": "Why was the equal sign so humble?",
+      "options": [
+        "It knew it wasn't greater",
+        "It never multiplied its ego",
+        "It was always balanced"
+      ],
+      "optionImages": null,
+      "answer": ["It was always balanced"],
+      "Trivia": null
+    },
+    {
+      "id": 7,
+      "questionImage": null,
+      "question": "Why did the variable break up with the constant?",
+      "options": [
+        "The constant was too predictable",
+        "The variable needed space to grow",
+        "They couldn't solve their differences"
+      ],
+      "optionImages": null,
+      "answer": ["The constant was too predictable"],
+      "Trivia": null
+    },
+    {
+      "id": 8,
+      "questionImage": null,
+      "question": "What did the algebraic formula say to the student?",
+      "options": [
+        "\"Let's solve for a date!\"",
+        "\"I've got your number!\"",
+        "\"You can count on me!\""
+      ],
+      "optionImages": null,
+      "answer": ["\"I've got your number!\""],
+      "Trivia": null
+    }
+  ]
+}

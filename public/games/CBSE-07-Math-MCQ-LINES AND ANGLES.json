@@ -1,0 +1,135 @@
+{
+    "gameTitle": "LINES AND ANGLES",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "What type of angle is formed when two lines intersect and the angles are equal?",
+            "options": [
+                "Acute",
+                "Right",
+                "Obtuse",
+                "Straight"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Right"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "If two parallel lines are intersected by a transversal, which of the following angles will always be equal?",
+            "options": [
+                "Corresponding angles",
+                "Alternate interior angles",
+                "Alternate exterior angles",
+                "Vertical angles"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Corresponding angles"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "What is the measure of each interior angle of a regular pentagon?",
+            "options": [
+                "108 degrees",
+                "120 degrees",
+                "140 degrees",
+                "150 degrees"
+            ],
+            "optionImages": null,
+            "answer": [
+                "108 degrees"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "Two angles are supplementary. If one angle measures 70 degrees, what is the measure of the other angle? ",
+            "options": [
+                "100 degrees",
+                "110 degrees",
+                "120 degrees",
+                "130 degrees"
+            ],
+            "optionImages": null,
+            "answer": [
+                " 110 degrees"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "If two angles are complementary, and one angle measures 40 degrees, what is the measure of the other angle?",
+            "options": [
+                "50 degrees",
+                "60 degrees",
+                "70 degrees",
+                "80 degrees"
+            ],
+            "optionImages": null,
+            "answer": [
+                " 80 degrees"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": "In a triangle, I'm the side that's longest,\nMy opposite angle is the one most acute.\nWhat am I called, in geometry's song?\nSolve the riddle, and you'll know where you belong.\n",
+            "options": [
+                "Hypotenuse",
+                "Perpendicular",
+                "Base",
+                "Altitude"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Hypotenuse"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": "I'm a pair of angles, together we make ninety,\nOur measures are such that we're called complementary.\nWhat are we, so well aligned?\nSolve this riddle, and the answer you'll find.\n",
+            "options": [
+                "Supplementary Angles",
+                "Adjacent Angles",
+                "Vertical Angles",
+                "Complementary Angles"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Complementary Angles"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": "I'm a special angle, neither too big nor small,\nNinety degrees I measure, standing upright and tall.\nWhat am I known as, in the world of lines and angles?\nThink sharp, and solve this riddle that dangles.\n",
+            "options": [
+                "Acute Angle",
+                "Obtuse Angle",
+                "Right Angle",
+                "Straight Angle"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Right Angle"
+            ],
+            "Trivia": null
+        }
+    ]
+}

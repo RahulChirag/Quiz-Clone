@@ -1,0 +1,135 @@
+{
+    "gameTitle": "Motion and Measurement of Distances",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "What is the motion of a child on a swing?",
+            "options": [
+                "Rectilinear",
+                "Circular",
+                "Periodic",
+                "Zigzag"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Periodic"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "Which motion involves a fixed point and constant distance?",
+            "options": [
+                "Rectilinear",
+                "Circular",
+                "Periodic",
+                "Vibratory"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Circular"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "Why can't a pace be used as a standard unit of length?",
+            "options": [
+                "Varies from person to person",
+                "Too short",
+                "Unreliable",
+                "Difficult to measure"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Varies from person to person"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "What is the motion of a bicycle wheel?",
+            "options": [
+                "Rectilinear",
+                "Circular",
+                "Vibratory",
+                "Accelerated"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Circular"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "What type of motion repeats itself after some time?",
+            "options": [
+                "Rectilinear",
+                "Circular",
+                "Uniform",
+                "Periodic"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Periodic"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": "I repeat my motion after a period of time, like a swing in the park. What am I?",
+            "options": [
+                "A car",
+                "A clock's pendulum",
+                "A rocket",
+                "A turtle racing"
+            ],
+            "optionImages": null,
+            "answer": [
+                "A clock's pendulum"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": "I help you find out how far you are from others, whether it's the Moon or your friend. What am I?",
+            "options": [
+                "A telescope",
+                "A measuring cup",
+                "A pedometer",
+                "A tape measure},"
+            ],
+            "optionImages": null,
+            "answer": [
+                "A tape measure"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": "I move in a straight line, always keeping my distance the same. What am I?",
+            "options": [
+                "A bicycle",
+                "A ceiling fan",
+                "A sewing machine",
+                "A dog chasing its tai"
+            ],
+            "optionImages": null,
+            "answer": [
+                "A bicycle"
+            ],
+            "Trivia": null
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+  "gameTitle": "Air Around Us",
+  "gameType": "MCQ",
+  "eachQuestionDuration": 30,
+  "questions": [
+    {
+      "id": 1,
+      "questionImage": null,
+      "question": "Which gas supports burning candles?",
+      "options": ["Helium", "Oxygen", "Nitrogen", "Carbon Dioxide"],
+      "optionImages": null,
+      "answer": ["Oxygen"],
+      "Trivia": null
+    },
+    {
+      "id": 2,
+      "questionImage": null,
+      "question": "What is the composition of air?",
+      "options": [
+        "Nitrogen, Oxygen, Carbon Dioxide",
+        "Oxygen, Helium, Argon",
+        "Nitrogen, Carbon Monoxide, Oxygen",
+        "Helium, Nitrous Oxide, Oxygen"
+      ],
+      "optionImages": null,
+      "answer": ["Nitrogen, Oxygen, Carbon Dioxide"],
+      "Trivia": null
+    },
+    {
+      "id": 3,
+      "questionImage": null,
+      "question": "How will you prove that air supports burning?",
+      "options": [
+        "By heating water",
+        "By blowing air",
+        "By extinguishing a candle",
+        "By freezing ice"
+      ],
+      "optionImages": null,
+      "answer": ["By extinguishing a candle"],
+      "Trivia": null
+    },
+    {
+      "id": 4,
+      "questionImage": null,
+      "question": "How will you show that air is dissolved in water?",
+      "options": [
+        "Bubbles appear",
+        "Water freezes",
+        "Water turns pink",
+        "Water boils"
+      ],
+      "optionImages": null,
+      "answer": ["Bubbles appear"],
+      "Trivia": null
+    },
+    {
+      "id": 5,
+      "questionImage": null,
+      "question": "Why does a lump of cotton wool shrink in water?",
+      "options": [
+        "Due to air pressure",
+        "Due to gravity",
+        "Due to water density",
+        "Due to air escaping"
+      ],
+      "optionImages": null,
+      "answer": ["Due to air escaping"],
+      "Trivia": null
+    },
+    {
+      "id": 6,
+      "questionImage": null,
+      "question": "I'm light as a feather,\nBut strong enough to make things sway.\nWhat am I?\n",
+      "options": ["Air", "Fire", "Earth"],
+      "optionImages": null,
+      "answer": ["Air"],
+      "Trivia": "I'm breezy and easy!"
+    },
+    {
+      "id": 7,
+      "questionImage": null,
+      "question": "I show you which way the wind blows,\nI spin around as the breeze flows.\nWhat am I?\n",
+      "options": ["Weather vane", "Compass", "Clock}\n"],
+      "optionImages": null,
+      "answer": ["Weather vane"],
+      "Trivia": "I'm always going with the flow!"
+    },
+    {
+      "id": 8,
+      "questionImage": null,
+      "question": "I'm all around, can't be seen,\nI support burning, I'm so keen.\nWhat am I?",
+      "options": ["Nitrogen", "Carbon dioxide", "Oxygen"],
+      "optionImages": null,
+      "answer": ["Oxygen"],
+      "Trivia": "I'm on fire!"
+    }
+  ]
+}

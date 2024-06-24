@@ -1,0 +1,134 @@
+{
+    "gameTitle": "COMPARING QUANTITIES",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "Interest = I, Principal = P, Rate of Interest = R, Time=T which of the following is correct",
+            "options": [
+                "I=PTR/100",
+                "R=P  X T/I X 100",
+                "P = T X R/I X 100",
+                "P = T X R/I X 100\nI = PTR/100"
+            ],
+            "optionImages": null,
+            "answer": [
+                "I=PTR/100"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": ". If the cost price of a shirt is \u20b9500 and the selling price is \u20b9600, what is the profit percentage?",
+            "options": [
+                "10%",
+                "15%",
+                "20%",
+                "25%"
+            ],
+            "optionImages": null,
+            "answer": [
+                "20%"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "If an amount of \u20b9800 is borrowed at an interest rate of 8% per annum, what is the total amount to be paid back after 3 years?",
+            "options": [
+                "\u20b9896",
+                "\u20b9864},\u20b9832",
+                "\u20b9928"
+            ],
+            "optionImages": null,
+            "answer": [
+                "\u20b9896"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": " If a product is bought for \u20b9300 and sold at a loss of 20%, what is the selling price?",
+            "options": [
+                "\u20b9240",
+                "\u20b9280",
+                "\u20b9320",
+                "\u20b9260"
+            ],
+            "optionImages": null,
+            "answer": [
+                "\u20b9240"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "The percent that represents the unshaded region in the figure",
+            "options": [
+                "75%",
+                "50%",
+                "40%",
+                "60%"
+            ],
+            "optionImages": null,
+            "answer": [
+                "40%"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": "I am a quantity,\nUsed for comparison!\nDerived from Latin,\nMeaning 'per hundred' in translation!\nRepresented by a symbol,\nOne out of hundred, a relation!\n",
+            "options": [
+                "Fraction",
+                "Decimal",
+                "Percentage",
+                "Ratio"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Percentage"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": "When I'm positive, earnings are in store,\nNegative, and losses knock at your door.\nCalculated as SP minus CP, a simple deduction,\nI am the financial outcome of your production.\n",
+            "options": [
+                "Profit or Loss",
+                "Revenue",
+                "Cost",
+                "Investment"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Profit or Loss"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": "Over the years, I accumulate with grace,\nWith each period, I add to the base.\nInterest on loans and investments is my game,\nWho am I, tied to the financial aim?\n",
+            "options": [
+                "Principal",
+                "Interest",
+                "Dividend",
+                "Capital"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Interest"
+            ],
+            "Trivia": null
+        }
+    ]
+}

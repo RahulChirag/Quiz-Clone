@@ -1,0 +1,132 @@
+{
+    "gameTitle": "Playing with numbers",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "What is a multiple of a number?",
+            "options": [
+                "A number that can be divided evenly by another number",
+                "A number that is greater than the given number",
+                "A factor of the given number},\n{A number that results from multiplying the given number by another number"
+            ],
+            "optionImages": null,
+            "answer": [
+                "A number that results from multiplying the given number by another number"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "Which of the following is not a multiple of 9?",
+            "options": [
+                "36",
+                "45",
+                "52",
+                "63"
+            ],
+            "optionImages": null,
+            "answer": [
+                "52"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "What is the difference between a factor and a multiple of a number?",
+            "options": [
+                "Factors are always smaller than the given number, multiples are larger",
+                "Factors are numbers that can divide the given number evenly, multiples result from multiplying the given number}{Factors are odd numbers, multiples are even numbers},\n{There is no difference, factors and multiples are the same concept"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Factors are numbers that can divide the given number evenly, multiples result from multiplying the given number"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "The number which is a factor of every number.",
+            "options": [
+                "0",
+                "1",
+                "Itself",
+                "o & 1"
+            ],
+            "optionImages": null,
+            "answer": [
+                "\n{1"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "Which number is not a factor of 18?",
+            "options": [
+                "5",
+                "2",
+                "3",
+                "6"
+            ],
+            "optionImages": null,
+            "answer": [
+                "\n{5"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": "I am a number that can be divided by 2, 4, and myself. What number am I?",
+            "options": [
+                "8",
+                "6",
+                "10",
+                "14"
+            ],
+            "optionImages": null,
+            "answer": [
+                "\n{8"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": ". I am a number that is a factor of 12 but not of 9. What number is this mystery?",
+            "options": [
+                "3",
+                "9",
+                "4",
+                "1"
+            ],
+            "optionImages": null,
+            "answer": [
+                "\n{4"
+            ],
+            "Trivia": "Because 4 is a factor of 12, but not of 9. It likes to keep things interesting!"
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": "I am a number that can be written as a product of 2 equal factors. What number am I?",
+            "options": [
+                "5",
+                "16",
+                "8",
+                "15"
+            ],
+            "optionImages": null,
+            "answer": [
+                "\n{16"
+            ],
+            "Trivia": "Because 16 = 4 x 4, it loves symmetry!"
+        }
+    ]
+}

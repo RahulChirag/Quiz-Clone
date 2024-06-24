@@ -1,0 +1,135 @@
+{
+    "gameTitle": "WASTEWATER STORY",
+    "gameType": "MCQ",
+    "eachQuestionDuration": null,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "What is the purpose of aeration in wastewater treatment?",
+            "options": [
+                "Remove odors",
+                "Enhance oxygen levels",
+                "Increase contamination",
+                "Speed up filtration"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Enhance oxygen levels"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "What is the main source of contamination in sewage?",
+            "options": [
+                "Organic matter",
+                "Sand particles",
+                "Oxygen",
+                "Chlorine"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Organic matter"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "Which process removes physical matter in wastewater treatment?",
+            "options": [
+                "Aeration",
+                "Filtration",
+                "Chlorination",
+                "Sedimentation"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Filtration"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "What is the role of aerobic bacteria in sewage treatment?",
+            "options": [
+                "Produce oxygen",
+                "Break down organic matter",
+                "Increase contamination",
+                "Enhance turbidity"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Break down organic matter"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "Which process involves the removal of chemical impurities in wastewater?",
+            "options": [
+                "Aeration",
+                "Filtration",
+                "Sedimentation",
+                "Chlorination"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Chlorination"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": "I am dirty water from sinks and toilets,\nI flow through pipes under the streets.\nWhat am I?",
+            "options": [
+                "Contaminated water",
+                "color water",
+                "sewage water",
+                "wastewater"
+            ],
+            "optionImages": null,
+            "answer": [
+                "wastewater"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": "I am a key process in cleaning up wastewater,\nI remove pollutants before water is reused or returned to nature.\nWhat am I?\n",
+            "options": [
+                "water purification",
+                "drainage cleaning",
+                "sewage treatment",
+                "chlorination"
+            ],
+            "optionImages": null,
+            "answer": [
+                "sewage treatment"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": "I am a complex mixture of liquid waste,\nIncluding human faeces, animal waste, and harmful bacteria.\nWhat am I?\n",
+            "options": [
+                "biogas",
+                "sludge",
+                "sewage",
+                "wastewater"
+            ],
+            "optionImages": null,
+            "answer": [
+                "sewage"
+            ],
+            "Trivia": null
+        }
+    ]
+}

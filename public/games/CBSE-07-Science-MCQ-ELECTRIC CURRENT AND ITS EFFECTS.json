@@ -1,0 +1,135 @@
+{
+    "gameTitle": "ELECTRIC CURRENT AND ITS EFFECTS",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "What does the longer line in the symbol for an electric cell represent?",
+            "options": [
+                "Negative terminal",
+                "Positive terminal",
+                "Connecting wire",
+                "Switch"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Positive terminal"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "What is the safety device based on the heating effect of electric current?",
+            "options": [
+                "Battery",
+                "Fuse",
+                "Electromagnet",
+                "Switch"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Fuse"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "What device uses an electromagnet to produce sound?",
+            "options": [
+                "Battery",
+                "Fuse ",
+                "Electric bell",
+                "Switch"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Electric bell"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "What is used to connect the various components in an electric circuit? ",
+            "options": [
+                "Switch",
+                "Battery",
+                " Fuse",
+                "Connecting wires"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Connecting wires"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "What is the purpose of a Miniature Circuit Breaker (MCB)?",
+            "options": [
+                "To regulate current flow",
+                "To cut off power",
+                "To increase voltage",
+                "To amplify signals"
+            ],
+            "optionImages": null,
+            "answer": [
+                "To cut off power"
+            ],
+            "Trivia": " "
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": "What did the battery say to the flashlight?",
+            "options": [
+                "\"I'm feeling positively charged!\"",
+                "\"You light up my life!\"",
+                "\"Let's stick together like magnets!\"",
+                "\"I'm shocked by your brightness!\""
+            ],
+            "optionImages": null,
+            "answer": [
+                "\"I'm feeling positively charged!\""
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": "Why did the electric bulb break up with the power source?",
+            "options": [
+                "\"It needed some space to shine on its own!\"",
+                "\"It felt too dim around the power source!\"",
+                "\"It wanted a brighter future!\"",
+                "\"Their relationship was sparking too much drama!\""
+            ],
+            "optionImages": null,
+            "answer": [
+                "\"It felt too dim around the power source!\""
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": "Why did the fuse invite the electromagnet to its party?",
+            "options": [
+                "\"It wanted to attract some positive energy!\"",
+                "\"It needed a strong connection!\"",
+                "\"It hoped to spark a magnetic friendship!\"",
+                "\"It wanted to heat things up!\""
+            ],
+            "optionImages": null,
+            "answer": [
+                "\"It hoped to spark a magnetic friendship!\""
+            ],
+            "Trivia": null
+        }
+    ]
+}

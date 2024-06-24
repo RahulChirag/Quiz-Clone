@@ -1,0 +1,137 @@
+{
+  "gameTitle": "Ancient Civilizations",
+  "gameType": "Picture",
+  "eachQuestionDuration": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is not a component of food?",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=0.752xw:1.00xh;0.175xw,0&resize=1200:*",
+        "https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?cs=srgb&dl=pexels-pixabay-45201.jpg&fm=jpg",
+        "https://static.vecteezy.com/system/resources/thumbnails/026/677/433/small_2x/ai-generated-ai-generative-beautiful-young-tittle-calf-on-sunflower-field-at-sunset-nature-landscape-farm-cow-animal-vibe-graphic-art-photo.jpg"
+      ],
+      "imageAnswers": ["dog", "cat", "cow"],
+      "trivia": "This famous line is from Hamlet, Act III, Scene I.",
+      "answer": "To be, or not to be, that is the question."
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is not a component of food?",
+      "images": [
+        "https://cdn.britannica.com/06/122506-050-C8E03A8A/Pyramid-of-Khafre-Giza-Egypt.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8RWu7UZaEIWXgudRhLSmszZ8_lw-4v8WE7w&s",
+        "https://images.nationalgeographic.org/image/upload/t_edhub_resource_key_image/v1638892506/EducationHub/photos/the-great-wall-of-china.jpg",
+        "https://assets.editorial.aetnd.com/uploads/2011/06/taj-mahal-gettyimages-463924915.jpg"
+      ],
+      "imageAnswers": [
+        "Pyramids",
+        "Colosseum",
+        "Great Wall of China",
+        "Taj Mahal"
+      ],
+      "trivia": "This ancient civilization built the Pyramids of Giza.",
+      "answer": "Egyptians"
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is not a component of food?",
+      "images": [
+        "https://www.metmuseum.org/toah/images/hb/hb_26.31.454.jpg",
+        "https://www.britishmuseum.org/sites/default/files/styles/1600w_1200h/public/2021-05/roman_coin.jpg",
+        "https://www.celticwholesale.com/wp-content/uploads/2020/02/Celtic-Knot-Meanings.jpg"
+      ],
+      "imageAnswers": ["Greek Vase", "Roman Coin", "Celtic Knot"],
+      "trivia": "This is an example of art from which ancient civilization?",
+      "answer": "Greeks"
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is not a component of food?",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/e3/Great_Sphinx_of_Giza_-_20080716a.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5c/Parthenon_from_west.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e4/Stonehenge2007_07_30.jpg"
+      ],
+      "imageAnswers": ["Sphinx", "Parthenon", "Stonehenge"],
+      "trivia": "The Parthenon is a temple dedicated to which Greek goddess?",
+      "answer": "Athena"
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is not a component of food?",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Terracotta_Army%2C_Pit_1.jpg/1200px-Terracotta_Army%2C_Pit_1.jpg",
+        "https://www.aztec-history.com/images/aztec-calendar-stone.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e0/Machu_Picchu%2C_Peru.jpg"
+      ],
+      "imageAnswers": ["Terracotta Army", "Aztec Calendar", "Machu Picchu"],
+      "trivia": "The Terracotta Army was built to protect the tomb of which Chinese emperor?",
+      "answer": "Qin Shi Huang"
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is not a component of food?",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Venus_de_Milo_Louvre_Ma399_n4.jpg/800px-Venus_de_Milo_Louvre_Ma399_n4.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/800px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/2d/Michelangelo%27s_David_2015.jpg"
+      ],
+      "imageAnswers": ["Venus de Milo", "Mona Lisa", "David"],
+      "trivia": "Venus de Milo is a famous ancient sculpture from which civilization?",
+      "answer": "Greek"
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is not a component of food?",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/2/21/Puerta_del_Sol_%28Tiwanaku%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e1/Ahu_Tongariki%2C_Easter_Island%2C_Chile.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/2a/Colossus_of_Rhodes_-_1913.jpg"
+      ],
+      "imageAnswers": [
+        "Incan Sun Gate",
+        "Easter Island Moai",
+        "Colossus of Rhodes"
+      ],
+      "trivia": "The Moai statues are found on which island?",
+      "answer": "Easter Island"
+    },
+    {
+      "id": 8,
+      "question": "Which of the following is not a component of food?",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Rosetta_Stone.JPG/800px-Rosetta_Stone.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Egyptian_hieroglyphs.jpg/800px-Egyptian_hieroglyphs.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/36/Cuneiform_script2.jpg"
+      ],
+      "imageAnswers": ["Rosetta Stone", "Hieroglyphs", "Cuneiform"],
+      "trivia": "The Rosetta Stone was key to deciphering which ancient script?",
+      "answer": "Egyptian Hieroglyphs"
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is not a component of food?",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/11/Hagia_Sophia_Mars_2013.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/da/Taj-Mahal.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a6/Notre_Dame_de_Paris.jpg"
+      ],
+      "imageAnswers": ["Hagia Sophia", "Taj Mahal", "Notre-Dame Cathedral"],
+      "trivia": "Hagia Sophia was originally built as a cathedral in which city?",
+      "answer": "Constantinople (now Istanbul)"
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is not a component of food?",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/8f/View_of_the_Acropolis_Athens.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0d/Petra_Jordan_BW_21.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f7/Angkor_Wat_temple.jpg"
+      ],
+      "imageAnswers": ["Acropolis", "Petra", "Angkor Wat"],
+      "trivia": "Petra is an ancient city located in which modern-day country?",
+      "answer": "Jordan"
+    }
+  ]
+}

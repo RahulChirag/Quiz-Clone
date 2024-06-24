@@ -1,0 +1,135 @@
+{
+    "gameTitle": "PHYSICAL AND CHEMICAL CHANGES",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "When baking soda is mixed with lemon juice, bubbles are formed with the evolution of a gas. What type of change is it?",
+            "options": [
+                "Physical change",
+                "Chemical change",
+                " Reversible change",
+                "Irreversible change"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Chemical change"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "What process prevents iron pipes from rusting easily?",
+            "options": [
+                "Galvanization",
+                "Crystallization",
+                "Oxidation",
+                "Evaporation"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Galvanization"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "How can pure substances be obtained from their solutions?",
+            "options": [
+                "Oxidation",
+                "Reduction",
+                "Crystallisation",
+                "Sublimation"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Crystallisation"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "Blue colour of the copper sulphate solution changes to green colour when an iron nail is dropped into it due to the formation of",
+            "options": [
+                "Iron Sulphate",
+                "Copper Chloride",
+                "Copper Iron Sulphate",
+                "Iron Chloride"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Iron Suphate"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "Which of the following is a physical change?",
+            "options": [
+                "Digesting food",
+                "Burning paper",
+                "Boiling water",
+                "Rusting metal"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Boiling water"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": "I am a metal that turns orange and flaky, Leaving iron objects looking old and shaky. Exposure to air and water is my game, Preventing me takes more than just a name.",
+            "options": [
+                "Rusting",
+                "Galvanization ",
+                "Crystallization",
+                "Distillation"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Rusting "
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": "I start as a liquid, clear and pure, But with cooling, I transform for sure. My particles align in a symmetrical way, Creating shapes that sparkle and sway.",
+            "options": [
+                "Rusting",
+                "Galvanization",
+                "Crystallization",
+                "Distillation"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Crystallization"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": "What method involves physically picking out substances by hand?",
+            "options": [
+                "Rusting",
+                "Galvanization",
+                "Crystallization",
+                "Distillation"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Galvanization"
+            ],
+            "Trivia": null
+        }
+    ]
+}

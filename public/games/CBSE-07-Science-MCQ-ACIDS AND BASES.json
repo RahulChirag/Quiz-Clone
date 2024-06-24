@@ -1,0 +1,87 @@
+{
+    "gameTitle": "ACIDS AND BASES",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "Which substance is a natural indicator extracted from lichens? ",
+            "options": [
+                "Turmeric",
+                "Litmus",
+                "China rose petals",
+                "Beet root"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Litmus"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "What is the natural indicator found in red cabbage juice?",
+            "options": [
+                "Anthocyanin",
+                "Betalain",
+                "Chlorophyll",
+                "Carotenoid"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Anthocyanin"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "Which substance is used to neutralize excess stomach acid?",
+            "options": [
+                "Vinegar",
+                "Lemon Juice",
+                "Milk of Magnesia",
+                "Baking Powder"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Milk of Magnesia"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "In neutralization, what is the product when an acid reacts with a base?",
+            "options": [
+                "Salt",
+                "Sugar",
+                "Alcohol",
+                "Water"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Salt"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "How can an ant bite be neutralized using household items?",
+            "options": [
+                "Vinegar",
+                "Olive Oil",
+                "Baking Soda",
+                "Honey"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Baking Soda"
+            ],
+            "Trivia": null
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "gameTitle": "REPRODUCTION IN  PLANTS",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "Which type of reproduction involves the fusion of male and female gametes?",
+            "options": [
+                "Asexual",
+                "Fragmentation",
+                "Sexual",
+                "Budding"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Sexual"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "In plants, where are male gametes found?",
+            "options": [
+                "Ovule",
+                "Pollen grains",
+                "Stigma",
+                "Anther"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Pollen grains"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "What does an embryo develop into?",
+            "options": [
+                "Ovule",
+                "Seed",
+                "Pollen grain",
+                "Zygote"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Seed"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "Which process helps plants prevent overcrowding and competition?",
+            "options": [
+                "Pollination",
+                "Fertilization",
+                " Seed dispersal",
+                "Fragmentation"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Seed dispersal"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "In vegetative propagation, new plants are produced from which parts of the plant?",
+            "options": [
+                "Flowers",
+                "Pollen grains",
+                "Leaves, stems, roots, and buds",
+                "Seeds"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Leaves,stems,roots,and buds"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": "I am a fun way plants play to create new offspring without seeds. What am I? Think about how plants can reproduce using parts like roots and stems.Answer: b) Asexual reproduction",
+            "options": [
+                "sexual reproduction",
+                "asexual reproduction",
+                "Fragmentation",
+                "Budding"
+            ],
+            "optionImages": null,
+            "answer": [
+                "asexual reproduction"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": "I am the tiny granules that contain the male gametes in plants. What am I? Bees and butterflies help me move around.",
+            "options": [
+                "Pollen grains",
+                "stigma",
+                "style",
+                "anther"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Pollen grains"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": "I am the clever way seeds travel far from the parent plant to find new homes. What am I?Some seeds have wings to help them fly, while others burst out with sudden jerks",
+            "options": [
+                "vegetative reproduction",
+                "pollination",
+                "seed dispersal",
+                "sporangium"
+            ],
+            "optionImages": null,
+            "answer": [
+                "seed dispersal"
+            ],
+            "Trivia": null
+        }
+    ]
+}

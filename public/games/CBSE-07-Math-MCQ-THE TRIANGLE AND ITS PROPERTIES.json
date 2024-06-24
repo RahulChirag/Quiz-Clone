@@ -1,0 +1,135 @@
+{
+    "gameTitle": "THE TRIANGLE AND ITS PROPERTIES",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "What is the name of the line segment that joins a vertex to the midpoint of the opposite side in a triangle?",
+            "options": [
+                "Perpendicular",
+                "Median",
+                "Altitude",
+                "Hypotenuse"
+            ],
+            "optionImages": null,
+            "answer": [
+                "0.0315"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "Which type of triangle has all sides of different lengths?",
+            "options": [
+                "Equilateral triangle",
+                "Isosceles triangle",
+                "Scalene triangle",
+                "Right-angled triangle"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Scalene triangle"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "If the base angle of an isosceles triangle is 70 degrees, what is the measure of the vertex angle?",
+            "options": [
+                "40 degrees",
+                "70 degrees",
+                "110 degrees",
+                "140 degrees"
+            ],
+            "optionImages": null,
+            "answer": [
+                "110 degrees"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "In a right-angled triangle, what is the relationship between the two acute angles?",
+            "options": [
+                "They are equal",
+                "They are complementary",
+                "They are supplementary",
+                "They are congruent"
+            ],
+            "optionImages": null,
+            "answer": [
+                "They are complementary"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "If the length of two sides of a triangle is 7cm and 10cm, what could be the possible length of the third side?",
+            "options": [
+                "3cm",
+                "5cm",
+                "15cm",
+                "17cm"
+            ],
+            "optionImages": null,
+            "answer": [
+                "17cm"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": "I am a triangle so unique, My sides are all of different physique, One angle is acute, one is right, And the last one is out of sight, What type of triangle am I?",
+            "options": [
+                "Equilateral Triangle",
+                "Scalene Triangle",
+                " Isosceles Triangle",
+                "Right-angled Triangle"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Scalene Triangle"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": "I'm a triangle with angles precise, One is obtuse, that's not nice, One is acute, and one is right, Guess my type, if you might!",
+            "options": [
+                "Acute-angled Triangle",
+                "Obtuse-angled Triangle",
+                "Right-angled Triangle",
+                "Equilateral Triangle"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Obtuse-angled Triangle"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": "I'm a triangle, with sides the same, Equal angles, what's in a name? Each corner is a perfect ninety, My type is clear, can you find me?",
+            "options": [
+                "Equilateral Triangle",
+                "Right-angled Triangle",
+                "Isosceles Triangle",
+                "Scalene Triangle"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Right-angled Triangle"
+            ],
+            "Trivia": null
+        }
+    ]
+}

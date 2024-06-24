@@ -1,0 +1,135 @@
+{
+    "gameTitle": "Sorting Materials into groups",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "Which material is NOT soluble in water?",
+            "options": [
+                "Sugar",
+                "Salt",
+                "Vinegar",
+                "Sand"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Sand"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "What floats on water?",
+            "options": [
+                "Iron",
+                "Sugar",
+                "Wood",
+                "Sand"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Wood"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "What material does not conduct electricity?",
+            "options": [
+                "Sand",
+                "Globe",
+                "Orange",
+                "Pitcher"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Orange"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "What material does not conduct electricity?",
+            "options": [
+                "Copper",
+                "Silver",
+                "Iron",
+                "Sand"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Sand"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "Which shape does not belong?",
+            "options": [
+                "Chair",
+                "Baby",
+                "Table",
+                "Cupboard"
+            ],
+            "optionImages": null,
+            "answer": [
+                " {Baby"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": "Why did the paper clip refuse to join the other office supplies? ",
+            "options": [
+                "It wanted to be a solo star",
+                "It was stuck-up",
+                "It had commitment issues.",
+                "It didn't fit into any group."
+            ],
+            "optionImages": null,
+            "answer": [
+                "It was stuck-up"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": "How does the pencil sharpener keep all the pencils in line?",
+            "options": [
+                "It uses sharp wit.",
+                "It's the point of authority.",
+                "It makes them lead by example.",
+                "It's a tough eraser."
+            ],
+            "optionImages": null,
+            "answer": [
+                "It's the point of authority"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": "Why did the rubber band break up with the paper clips?",
+            "options": [
+                "They couldn't stick together.",
+                "It wanted more elasticity.",
+                "They had a tense relationship.",
+                "It needed space to stretch."
+            ],
+            "optionImages": null,
+            "answer": [
+                "They couldn't stick together"
+            ],
+            "Trivia": null
+        }
+    ]
+}

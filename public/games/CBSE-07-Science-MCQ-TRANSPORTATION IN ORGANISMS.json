@@ -1,0 +1,135 @@
+{
+    "gameTitle": "TRANSPORTATION IN ORGANISMS",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "What is the main function of blood in the body?",
+            "options": [
+                "Transport substances",
+                "Produce energy",
+                "Maintain temperature",
+                "Support structure"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Transport substances"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "Which pigment in blood carries oxygen to cells?",
+            "options": [
+                "Melanin",
+                "Chlorophyll",
+                "Hemoglobin",
+                "Carotene"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Hemoglobin"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "What is the role of platelets in blood? ",
+            "options": [
+                "Carry oxygen",
+                "Fight infections",
+                "Transport nutrients",
+                "Clotting"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Clotting"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "What is the main excretory product in human urine?",
+            "options": [
+                "Urea",
+                "Glucose",
+                "Sodium",
+                "Calcium"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Urea"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "How is water transported in plants?",
+            "options": [
+                "Stomata",
+                "Xylem",
+                "Phloem",
+                "Roots"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Xylem"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": "I am a fluid that flows in blood vessels, transporting substances like oxygen and waste. What am I? This fluid is composed of plasma and different types of cells, including red blood cells and white blood cells.",
+            "options": [
+                "water",
+                "plasma",
+                "urine",
+                "blood"
+            ],
+            "optionImages": null,
+            "answer": [
+                "blood"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": " I am an organism that feeds on a host organism, causing harm to it in the process. I rely entirely on my host for nutrition. What am I?",
+            "options": [
+                "blood",
+                "plasma",
+                "hemoglobin",
+                "pus"
+            ],
+            "optionImages": null,
+            "answer": [
+                "hemoglobin"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": "I am a type of cell in the blood that fights against germs that may enter the body. What am I? I help the body defend itself against infections and diseases",
+            "options": [
+                "RBC",
+                "platelets",
+                "WBC",
+                "plasma"
+            ],
+            "optionImages": null,
+            "answer": [
+                "WBC"
+            ],
+            "Trivia": null
+        }
+    ]
+}

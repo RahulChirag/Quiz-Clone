@@ -1,0 +1,135 @@
+{
+    "gameTitle": "Light, Shadows, and Reflections",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "What type of object allows light to pass through it completely?",
+            "options": [
+                "Opaque",
+                "Transparent",
+                "Translucent",
+                "Luminous"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Transparent"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "When an opaque object blocks light, what is formed?",
+            "options": [
+                "Sound",
+                "Shadow",
+                "Reflection",
+                "Rainbow"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Shadow"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "What device uses reflections to see around corners?",
+            "options": [
+                "Microscope",
+                "Kaleidoscope",
+                "Periscope",
+                "Telescope"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Periscope"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "Which object gives clear images in mirror reflections?",
+            "options": [
+                "Opaque objects",
+                "Transparent objects",
+                "Translucent objects",
+                "Luminous objects"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Transparent objects"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "What happens when light travels in a straight line and hits a mirror?",
+            "options": [
+                "Absorbed",
+                "Scattered",
+                "Reflected",
+                "Dissipated"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Reflected"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": "I am a device that uses reflections to see around corners. What am I?",
+            "options": [
+                "Kaleidoscope",
+                "Periscope",
+                "Telescope",
+                "Microscope"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Periscope"
+            ],
+            "Trivia": "Because I love to peek around corners and reflect on the situation!"
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": "I am a phenomenon that gives information about shapes of objects. What am I?",
+            "options": [
+                "Shadow",
+                "Reflection",
+                "Refraction",
+                "Glare"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Shadow"
+            ],
+            "Trivia": "I may follow you around, but I'm just trying to shed some light on the situation!"
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": "I am an object that allows light to pass through me partially. What am I?",
+            "options": [
+                "Mirror",
+                "Opaque object",
+                "Translucent object",
+                "Flashlight"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Translucent object"
+            ],
+            "Trivia": "I may not be fully transparent, but I like to let some light in!"
+        }
+    ]
+}

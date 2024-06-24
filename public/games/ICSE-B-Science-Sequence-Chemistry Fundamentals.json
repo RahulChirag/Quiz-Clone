@@ -1,0 +1,171 @@
+{
+  "gameTitle": "Chemistry Fundamentals",
+  "gameType": "Sequence",
+  "eachQuestionDuration": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "To be, or not to be, that is * ?",
+      "ImageSequence": [
+        {
+          "id": 1,
+          "image": "https://e7.pngegg.com/pngimages/302/167/png-clipart-1-1-thumbnail.png"
+        },
+        {
+          "id": 2,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/2green.png"
+        },
+        {
+          "id": 3,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/MRT_Singapore_Destination_3.png"
+        }
+      ],
+      "trivia": "This famous line is from Hamlet, Act III, Scene I.",
+      "answer": "To be, or not to be, that is the question."
+    },
+    {
+      "id": 2,
+      "question": "To be, or not to be, that is * ?",
+      "StringSequence": [
+        {
+          "id": 1,
+          "string": "first"
+        },
+        {
+          "id": 2,
+          "string": "second"
+        },
+        {
+          "id": 3,
+          "string": "thired"
+        }
+      ],
+      "trivia": "This famous line is from Hamlet, Act III, Scene I.",
+      "answer": "To be, or not to be, that is the question."
+    },
+    {
+      "id": 3,
+      "question": "To be, or not to be, that is * ?",
+      "sequenceForImages": [
+        "https://e7.pngegg.com/pngimages/302/167/png-clipart-1-1-thumbnail.png",
+        "https://upload.wikimedia.org/wikipedia/commons/4/4b/2green.png",
+        "https://upload.wikimedia.org/wikipedia/commons/2/26/MRT_Singapore_Destination_3.png"
+      ],
+      "trivia": "This quote discusses \"the seven ages of man.\"",
+      "answer": "All the world's a stage, and all the men and women merely players."
+    },
+    {
+      "id": 4,
+      "question": "To be, or not to be, that is * ?",
+      "sequenceForImages": [
+        "https://e7.pngegg.com/pngimages/302/167/png-clipart-1-1-thumbnail.png",
+        "https://upload.wikimedia.org/wikipedia/commons/4/4b/2green.png",
+        "https://upload.wikimedia.org/wikipedia/commons/2/26/MRT_Singapore_Destination_3.png"
+      ],
+      "trivia": "This quote is from As You Like It, Act II, Scene VII.",
+      "answer": "All the world's a stage, and all the men and women merely players."
+    },
+    {
+      "id": 5,
+      "question": "To be, or not to be, that is * ?",
+      "sequenceForImages": [
+        "https://e7.pngegg.com/pngimages/302/167/png-clipart-1-1-thumbnail.png",
+        "https://upload.wikimedia.org/wikipedia/commons/4/4b/2green.png",
+        "https://upload.wikimedia.org/wikipedia/commons/2/26/MRT_Singapore_Destination_3.png"
+      ],
+      "trivia": "This quote is from Macbeth, Act V, Scene V.",
+      "answer": "Out, out, brief candle! Life's but a walking shadow."
+    },
+    {
+      "id": 6,
+      "question": "To be, or not to be, that is * ?",
+      "sequence": ["Foul and fair", "Fair and foul", "Witches", "Banquo"],
+      "trivia": "This quote is from Macbeth, Act I, Scene I.",
+      "answer": "Fair is foul, and foul is fair."
+    },
+    {
+      "id": 7,
+      "question": "To be, or not to be, that is * ?",
+      "sequenceForImages": [
+        "https://e7.pngegg.com/pngimages/302/167/png-clipart-1-1-thumbnail.png",
+        "https://upload.wikimedia.org/wikipedia/commons/4/4b/2green.png",
+        "https://upload.wikimedia.org/wikipedia/commons/2/26/MRT_Singapore_Destination_3.png"
+      ],
+      "trivia": "This quote is from Julius Caesar, Act III, Scene I.",
+      "answer": "Et tu, Brute?"
+    },
+    {
+      "id": 8,
+      "question": "To be, or not to be, that is * ?",
+      "sequence": ["Ambition", "Julius Caesar", "Betrayal", "Brutus"],
+      "trivia": "This quote is from Julius Caesar, Act III, Scene I.",
+      "answer": "Et tu, Brute?"
+    },
+    {
+      "id": 9,
+      "question": "To be, or not to be, that is * ?",
+      "sequenceForImages": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/8a/14_black.png",
+        "https://upload.wikimedia.org/wikipedia/commons/2/2b/15_black.png",
+        "https://upload.wikimedia.org/wikipedia/commons/4/42/16_black.png"
+      ],
+      "trivia": "This quote is from Romeo and Juliet, Act II, Scene II.",
+      "answer": "But, soft! What light through yonder window breaks?"
+    },
+    {
+      "id": 10,
+      "question": "To be, or not to be, that is * ?",
+      "sequence": ["Balcony Scene", "Juliet", "Night", "Light"],
+      "trivia": "This quote is from Romeo and Juliet, Act II, Scene II.",
+      "answer": "But, soft! What light through yonder window breaks?"
+    },
+    {
+      "id": 11,
+      "sequenceForImages": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/7c/17_black.png",
+        "https://upload.wikimedia.org/wikipedia/commons/8/88/18_black.png",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f3/19_black.png"
+      ],
+      "trivia": "This quote is from The Merchant of Venice, Act IV, Scene I.",
+      "answer": "The quality of mercy is not strained."
+    },
+    {
+      "id": 12,
+      "sequence": ["Mercy", "Justice", "Shylock", "Portia"],
+      "trivia": "This quote is from The Merchant of Venice, Act IV, Scene I.",
+      "answer": "The quality of mercy is not strained."
+    },
+    {
+      "id": 13,
+      "sequenceForImages": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/e8/20_black.png",
+        "https://upload.wikimedia.org/wikipedia/commons/6/68/21_black.png",
+        "https://upload.wikimedia.org/wikipedia/commons/3/36/22_black.png"
+      ],
+      "trivia": "This quote is from A Midsummer Night's Dream, Act V, Scene I.",
+      "answer": "The course of true love never did run smooth."
+    },
+    {
+      "id": 14,
+      "sequence": ["Love", "Obstacles", "Lysander", "Hermia"],
+      "trivia": "This quote is from A Midsummer Night's Dream, Act I, Scene I.",
+      "answer": "The course of true love never did run smooth."
+    },
+    {
+      "id": 15,
+      "sequenceForImages": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/d2/23_black.png",
+        "https://upload.wikimedia.org/wikipedia/commons/8/8a/24_black.png",
+        "https://upload.wikimedia.org/wikipedia/commons/5/54/25_black.png"
+      ],
+      "trivia": "This quote is from Othello, Act I, Scene III.",
+      "answer": "The Moor is of a free and open nature."
+    },
+    {
+      "id": 16,
+      "sequence": ["Jealousy", "Othello", "Desdemona", "Iago"],
+      "trivia": "This quote is from Othello, Act I, Scene III.",
+      "answer": "The Moor is of a free and open nature."
+    }
+  ]
+}

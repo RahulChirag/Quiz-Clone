@@ -1,0 +1,132 @@
+{
+    "gameTitle": "Fractions",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "What is the term called that is used to represent a part of a whole?",
+            "options": [
+                "Decimal",
+                "Whole number",
+                "Rational number",
+                "Fraction"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Fraction"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "What is the denominator in the fraction 3/4?",
+            "options": [
+                "3",
+                "4",
+                "7",
+                "2"
+            ],
+            "optionImages": null,
+            "answer": [
+                "4"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "In which fraction is the numerator less than the denominator?",
+            "options": [
+                "5/2",
+                "3/3",
+                "7/5",
+                "1/4"
+            ],
+            "optionImages": null,
+            "answer": [
+                "1/4"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "What are fractions with a numerator greater than the denominator called?",
+            "options": [
+                "Proper fractions",
+                "Mixed fractions",
+                "Improper fractions",
+                "Equal fractions"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Improper fractions"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "How can equivalent fractions be obtained?",
+            "options": [
+                "Multiply only",
+                "Divide only",
+                "Multiply or divide",
+                "Add or subtract"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Multiply or divide"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": "Why did the fraction go to therapy?",
+            "options": [
+                "It had too many problems",
+                "It needed to find its better half",
+                "It couldn't deal with its division issues"
+            ],
+            "optionImages": null,
+            "answer": [
+                "It needed to find its better half"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": "What did the fraction say to the decimal after a long day?",
+            "options": [
+                "I'm feeling divided.",
+                "Let's split the bill.",
+                "I'm not in the mood to be rational."
+            ],
+            "optionImages": null,
+            "answer": [
+                "I'm feeling divided."
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": "How do fractions stay healthy?",
+            "options": [
+                "By exercising their numerators",
+                "By balancing their denominators",
+                "By eating proper divi-sions"
+            ],
+            "optionImages": null,
+            "answer": [
+                "By balancing their denominators"
+            ],
+            "Trivia": null
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "gameTitle": "Nutrition in Animals",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "Which component of food is broken down into simpler substances during digestion?",
+            "options": [
+                "Proteins",
+                "Fats",
+                "Carbohydrates",
+                "Vitamins"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Carbohydrates"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "Where does digestion primarily occur in humans?",
+            "options": [
+                "Stomach",
+                "Liver",
+                "Small intestine",
+                "Large intestine"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Small intestine"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": " Which organ produces bile to aid in the digestion of fats?",
+            "options": [
+                "Liver",
+                "Pancreas",
+                "Stomach",
+                "Kidney"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Liver"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "What is the function of villi in the digestive system?",
+            "options": [
+                "Absorption of nutrients",
+                "Chewing food",
+                " Producing enzymes",
+                "Storing food"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Absorption of nutrients"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": " Which type of carbohydrate can be digested by ruminants but not by humans?",
+            "options": [
+                "Starch",
+                "Cellulose",
+                "Glucose",
+                "Sucrose"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Cellulose"
+            ],
+            "Trivia": " "
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": " start in the buccal cavity, break down food completely. With help from stomach and small intestine, I aid in absorption just fine. What am I?",
+            "options": [
+                "Starch",
+                "Cellulose",
+                "Glucose",
+                "Sucrose"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Bile"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": "A tiny creature, not quite an animal, I feed on microscopic prey. Using my pseudopodia, I engulf and digest all day. What am I?",
+            "options": [
+                "Starch",
+                "Cellulose",
+                "Glucose",
+                "Sucrose"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Amoeba"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": " I'm a process unique to some animals, like cows and deer in the fields. Swallow, regurgitate, chew again, my method never yields. What am I?",
+            "options": [
+                "Rumination",
+                "Absorption",
+                "Assimilation",
+                "Egestion"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Rumination"
+            ],
+            "Trivia": null
+        }
+    ]
+}

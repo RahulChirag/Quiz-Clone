@@ -1,0 +1,135 @@
+{
+    "gameTitle": "EXPONENTS AND POWERS",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "Which of the following is equivalent to 10^(-3)?",
+            "options": [
+                "0.001",
+                "1,000",
+                "100",
+                "0.01"
+            ],
+            "optionImages": null,
+            "answer": [
+                "0.001"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "If a^3 * a^(-2) = a^n, what is the value of n?",
+            "options": [
+                " 5",
+                "1",
+                "3",
+                "-1"
+            ],
+            "optionImages": null,
+            "answer": [
+                "3"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "What is the value of 0.05 in standard form?",
+            "options": [
+                " 5 x 10^(-2)",
+                "5 x 10^(-1)",
+                "5 x 10",
+                "5 x 10^2"
+            ],
+            "optionImages": null,
+            "answer": [
+                " 5 x 10^(-2)"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "If (22)3 = 2x, what is the value of x?",
+            "options": [
+                "6",
+                "8",
+                "12",
+                "16"
+            ],
+            "optionImages": null,
+            "answer": [
+                "16"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "Evaluate (43 + 24 - 32) / 22:",
+            "options": [
+                "16",
+                "8",
+                "4",
+                "2"
+            ],
+            "optionImages": null,
+            "answer": [
+                "8"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": "I am a mysterious number, with powers that rise high.\nWhen multiplied by itself, I never say goodbye.\nMy laws are strict, my rules are clear,\nWhat am I, that always appears?",
+            "options": [
+                "Zero",
+                "Infinity",
+                "One",
+                "exponents"
+            ],
+            "optionImages": null,
+            "answer": [
+                "exponents"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": "I follow the rules, the laws I abide,\nAddition or subtraction, I never hide.\nTo the power of another, I will rise,\nWhat am I, that math justifies?",
+            "options": [
+                "Equation",
+                "Variable",
+                "Laws of Exponent",
+                "Constant"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Laws of Exponent"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": "Large numbers I tackle, with ease and grace,\nIn powers of ten, they find their place.\nConveniently expressed, not to conform,\nWhat form am I, in a standard norm?",
+            "options": [
+                "Decimal Form",
+                "Fraction Form",
+                "Standard Form",
+                "Expanded Form"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Standard Form"
+            ],
+            "Trivia": null
+        }
+    ]
+}

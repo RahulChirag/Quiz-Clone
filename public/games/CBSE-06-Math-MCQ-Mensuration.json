@@ -1,0 +1,132 @@
+{
+    "gameTitle": "Mensuration",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "What is the formula for finding the perimeter of a rectangle?",
+            "options": [
+                "2l + 2w",
+                "l + w",
+                "l x w",
+                "3l + 2w"
+            ],
+            "optionImages": null,
+            "answer": [
+                "2l + 2w"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "How do you find the area of a triangle?",
+            "options": [
+                "l x w",
+                "1/2 x l x w",
+                "l + w",
+                "3l + 2w"
+            ],
+            "optionImages": null,
+            "answer": [
+                "1/2 x l x w"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "Which formula is used to calculate the circumference of a circle?",
+            "options": [
+                "\u03c0r",
+                "2\u03c0r",
+                "\u03c0r^2",
+                "2\u03c0r^2"
+            ],
+            "optionImages": null,
+            "answer": [
+                "2\u03c0r"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "How do you find the volume of a cube?",
+            "options": [
+                "l x w x h",
+                "l + w + h",
+                "l x w",
+                "l^3"
+            ],
+            "optionImages": null,
+            "answer": [
+                "l^3"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "What is the formula for the surface area of a rectangular prism?",
+            "options": [
+                "2lw + 2lh + 2wh",
+                "l x w x h",
+                "l + w + h",
+                "l^3"
+            ],
+            "optionImages": null,
+            "answer": [
+                "2lw + 2lh + 2wh"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": "What did the rectangle say to the square?",
+            "options": [
+                "You're so well-rounded",
+                "You've got some right angles",
+                "You're a little too boxed in"
+            ],
+            "optionImages": null,
+            "answer": [
+                "You're a little too boxed in"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": "Why don't circles ever get invited to parties?",
+            "options": [
+                "They're too one-dimensional",
+                "They're always cutting corners",
+                "They're too pointless"
+            ],
+            "optionImages": null,
+            "answer": [
+                "They're too one-dimensional"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": "What did the math book say to the little calculator?",
+            "options": [
+                "You can count on me",
+                "You're always calculating",
+                "Let's solve some problems together"
+            ],
+            "optionImages": null,
+            "answer": [
+                "You can count on me"
+            ],
+            "Trivia": null
+        }
+    ]
+}

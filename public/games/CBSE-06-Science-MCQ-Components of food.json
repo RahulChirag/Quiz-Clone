@@ -1,0 +1,132 @@
+{
+    "gameTitle": "Components of food",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "Which nutrient is essential for body repair and growth?",
+            "options": [
+                "Carbohydrates",
+                "Proteins",
+                "Fats",
+                "Vitamins"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Proteins"
+            ],
+            "Trivia": "text here"
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "Which component provides energy to the body?",
+            "options": [
+                "Vitamins",
+                "Carbohydrates",
+                "Fats",
+                "Minerals"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Carbohydrates"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "Which nutrient helps in the absorption of vitamins?",
+            "options": [
+                "Carbohydrates",
+                "Proteins",
+                "Fats",
+                "Minerals"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Fats"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "Which component supports various body functions?",
+            "options": [
+                "Carbohydrates",
+                "Proteins",
+                "Fats",
+                "Minerals"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Minerals"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "Which nutrient helps in boosting the immune system?",
+            "options": [
+                "Carbohydrates",
+                "Proteins",
+                "Vitamins",
+                "Minerals"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Vitamins"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": "What's the key to a meal that's oh-so fine, A nutrient we need, it's not just a sign.\nIs it\u2026",
+            "options": [
+                "Vitamins",
+                "Carbohydrates",
+                "Unicorn tears"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Carbohydrates"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": "In every dish, you'll find this friend, For muscles and cells, it's a must to mend. Is it\u2026",
+            "options": [
+                "Fairy dust",
+                "Proteins",
+                "Magic beans"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Proteins"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": "This component is quite the chatter, It gives us energy, but also a little fatter. Is it\u2026",
+            "options": [
+                "Fats",
+                "Sunshine",
+                "Moonlight melodies"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Fats"
+            ],
+            "Trivia": null
+        }
+    ]
+}

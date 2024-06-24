@@ -1,0 +1,132 @@
+{
+    "gameTitle": "Separation of Substances",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "What method involves physically picking out substances by hand?",
+            "options": [
+                "Handpicking",
+                "Filtration",
+                "Evaporation",
+                "Distillation"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Handpicking"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "Which process is used to separate tea leaves from liquid?",
+            "options": [
+                "Decantation",
+                "Magnetic Separation",
+                "Filtration",
+                "Handpicking"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Filtration"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "What is used to separate components based on different sizes?",
+            "options": [
+                "Decantation",
+                "Chromatography",
+                "Filtrati",
+                "Sieving"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Sieving"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "How are substances separated when harmful components need removal?",
+            "options": [
+                "Handpicking",
+                "Evaporation",
+                "Sublimation",
+                "Distillation"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Distillation"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "Which method involves separating components based on varying boiling points of the components?",
+            "options": [
+                "Filtration",
+                "Sublimation",
+                "Distillation",
+                "Handpicking}\n"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Distillation"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": "What did the magnet say to the iron filings when they separated?",
+            "options": [
+                "\"It's attractive being with you!\"",
+                "\"Let's stick together forever!\"",
+                "\"I'm feeling a bit polar today!\""
+            ],
+            "optionImages": null,
+            "answer": [
+                "\"It's attractive being with you!\""
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": "How did the sieve feel when separating the flour?",
+            "options": [
+                "It was sifting through its emotions!",
+                "It had a \"grainy\" relationship with the flour!",
+                "It was on cloud flour!"
+            ],
+            "optionImages": null,
+            "answer": [
+                "It was sifting through its emotions!"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": "How did the distillation flask feel when separating the liquids?",
+            "options": [
+                "It was boiling with excitement!",
+                "It found the separation to be a \"clear\" solution!",
+                "It thought the process was a real \"vapor\" rise!"
+            ],
+            "optionImages": null,
+            "answer": [
+                "It was boiling with excitement!"
+            ],
+            "Trivia": null
+        }
+    ]
+}

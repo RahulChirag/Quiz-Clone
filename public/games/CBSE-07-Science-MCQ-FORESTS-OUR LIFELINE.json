@@ -1,0 +1,135 @@
+{
+    "gameTitle": "FORESTS-OUR LIFELINE",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "What forms the uppermost layer of a forest?",
+            "options": [
+                "Canopy",
+                "Understorey",
+                "Crown",
+                "Humus"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Canopy"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "What term refers to the process of forests growing back after being damaged?",
+            "options": [
+                "Regeneration",
+                "Deforestation",
+                "Soil erosion",
+                "Decomposers"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Regeneration"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "What is the term for the fertile layer that decomposers help create in a forest?",
+            "options": [
+                "Crown",
+                "Regeneration",
+                "Soil erosion",
+                "Humus"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Humus"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "Which process involves the clearing of forests at a rapid rate?",
+            "options": [
+                "Humus",
+                "Regeneration",
+                "Deforestation",
+                "Canopy growth"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Deforestation"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "What helps in the growth and regeneration of forests by enriching the soil?",
+            "options": [
+                "Decomposers",
+                "Soil erosion",
+                "Understorey",
+                "Canopy"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Decomposers"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": "I'm the layer of vegetation found below the canopy, Where small plants and herbs grow happily. I play a crucial role in the forest's biodiversity. What am I? Guess, and you'll see!",
+            "options": [
+                "canopy",
+                "crown",
+                "understory",
+                "shrubs"
+            ],
+            "optionImages": null,
+            "answer": [
+                "understory"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": "I'm essential for plants, animals, and the soil. Breaking down organic matter is my toil. I help in recycling nutrients, you see, Who am I? Solve this riddle with glee!",
+            "options": [
+                "fertilizers",
+                "manure",
+                "humus",
+                "decomposers"
+            ],
+            "optionImages": null,
+            "answer": [
+                "decomposers"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": "Dark and rich, I'm found in the soil, Made from decaying matter, my role is royal. I improve soil structure and provide nutrients for free, Guess my name - what could I be?",
+            "options": [
+                "fertilizers",
+                "manure",
+                "humus",
+                "decomposers"
+            ],
+            "optionImages": null,
+            "answer": [
+                "humus"
+            ],
+            "Trivia": null
+        }
+    ]
+}

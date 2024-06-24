@@ -1,0 +1,132 @@
+{
+    "gameTitle": "Ratio and proportion",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "What does the ratio 3:5 represent?",
+            "options": [
+                "Three parts  of 1 thing to five parts of another thing",
+                "Five parts for every three parts",
+                "A total of eight parts",
+                "A difference of two parts"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Three parts  of 1 thing to five parts of another thing"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "Are the ratios 15:20 and 18:24 in proportion?",
+            "options": [
+                "Yes",
+                "No",
+                "Maybe",
+                "Sometimes"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Yes"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "When do ratios form a proportion?",
+            "options": [
+                "When added",
+                "When multiplied",
+                "When equal",
+                "When subtracted"
+            ],
+            "optionImages": null,
+            "answer": [
+                "When equal"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "How is a proportion represented?",
+            "options": [
+                "::",
+                "/",
+                "-",
+                "%"
+            ],
+            "optionImages": null,
+            "answer": [
+                "::"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "What is used to denote ratios?",
+            "options": [
+                "/",
+                ":",
+                "-",
+                "%"
+            ],
+            "optionImages": null,
+            "answer": [
+                " {:"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": "What did the ratio say to the fraction on a date?",
+            "options": [
+                "\"You're not my type\"",
+                "\"Let's be proportional\"",
+                "\"I can't reduce you\""
+            ],
+            "optionImages": null,
+            "answer": [
+                "\"Let's be proportional\""
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": "Why did the ratio go to the party alone?",
+            "options": [
+                "It couldn't find its equivalent",
+                "It was feeling prime",
+                "It was too divided"
+            ],
+            "optionImages": null,
+            "answer": [
+                "It couldn't find its equivalent"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": "How did the ratio console the proportion after a tough math test?",
+            "options": [
+                "\"Don't worry, we'll multiply our efforts next time\"",
+                "\"Let's divide the stress in half\"",
+                "\"We're still in perfect balance\""
+            ],
+            "optionImages": null,
+            "answer": [
+                "\"We're still in perfect balance\""
+            ],
+            "Trivia": null
+        }
+    ]
+}

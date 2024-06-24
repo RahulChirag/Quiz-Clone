@@ -1,0 +1,135 @@
+{
+    "gameTitle": "Nutrition in Plants",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "Where does a plant store excess food?",
+            "options": [
+                "Leaves",
+                "Roots",
+                "Stem",
+                "Flowers"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Roots"
+            ],
+            "Trivia": "text here"
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "What is the role of the stomata in plants?",
+            "options": [
+                "Absorb nutrients",
+                "Release oxygen",
+                "Regulate water loss",
+                "Produce fruits"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Regulate water loss"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "What are the byproducts of photosynthesis in plants?",
+            "options": [
+                "Oxygen,water",
+                "Carbon dioxide,minerals",
+                "Glucose,oxygen",
+                "Water,sunlight"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Glucose,oxygen"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "Fungi belong to which category of organisms?",
+            "options": [
+                "Autotrophs",
+                "Parasites",
+                "Saprotrophs",
+                "Heterotrophs"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Saprotrophs"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "Lichens are a symbiotic association between\u2026",
+            "options": [
+                "Moss and Algae",
+                "Fungi and Algae",
+                "Ferns and Fungi",
+                "Trees and Fungi"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Fungi and Algae"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": " I am a plant that traps and digests insects for my nutrition. I have specialized structures to capture my prey. What am I",
+            "options": [
+                "pitcher plant",
+                "cuscuta",
+                "mistletoe",
+                "Rafflesiaceae"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Pitcher Plant"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": " I am an organism that feeds on a host organism, causing harm to it in the process. I rely entirely on my host for nutrition. What am I?",
+            "options": [
+                "Amoeba",
+                "host",
+                "parasite",
+                "fugi"
+            ],
+            "optionImages": null,
+            "answer": [
+                "parasite"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": "I thrive on dead and decaying matter, breaking it down and absorbing nutrients from it. I play a crucial role in recycling nutrients in ecosystems. What am I? ",
+            "options": [
+                "bacteria",
+                "orchids",
+                "fungus",
+                "cuscuta"
+            ],
+            "optionImages": null,
+            "answer": [
+                "fungus"
+            ],
+            "Trivia": null
+        }
+    ]
+}

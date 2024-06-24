@@ -1,0 +1,135 @@
+{
+    "gameTitle": "RATIONAL NUMBERS",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "When subtracting two rational numbers, what do you add to the other rational number?",
+            "options": [
+                "The same rational number",
+                "The reciprocal of the rational number to be subtracted",
+                "The square root of the rational number",
+                "The additive inverse of the rational number to be subtracted"
+            ],
+            "optionImages": null,
+            "answer": [
+                "The additive inverse of the rational number to be subtracted"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "How do you divide one rational number by another non-zero rational number?",
+            "options": [
+                "Multiply the rational number by the sum of the two numbers",
+                "Multiply the rational number by the reciprocal of the other number",
+                "Divide the rational number by the other number",
+                "Add the two numbers"
+            ],
+            "optionImages": null,
+            "answer": [
+                " Multiply the rational number by the reciprocal of the other number"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": " Which of the following rational numbers is greater?",
+            "options": [
+                "3/5",
+                "7/9",
+                "4/7",
+                "5/8"
+            ],
+            "optionImages": null,
+            "answer": [
+                "7/9"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "How do you add rational numbers with the same denominator?",
+            "options": [
+                "Add the numerators and denominators separately",
+                "Add the numerators and keep the denominator the same",
+                "Find the LCM of the denominators and add",
+                "Multiply the numerators and denominators separately"
+            ],
+            "optionImages": null,
+            "answer": [
+                "5.75"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "What is the result of multiplying -2/3 by the reciprocal of 5/4?",
+            "options": [
+                "8/15",
+                "-8/15",
+                "15/8",
+                "-15/8"
+            ],
+            "optionImages": null,
+            "answer": [
+                "-8/15"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": "I am a number, quite rational and neat, When you add me to another, our sum's complete. Multiply me by 5, then divide by 2, The result is 3. What am I? Guess if you knew!",
+            "options": [
+                "2",
+                "4",
+                "5",
+                "8"
+            ],
+            "optionImages": null,
+            "answer": [
+                "2"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": "I am a fraction, part of a whole, Add me to 3/4, we become a pole. Subtract me from 7/8, a fraction, quite exact, Multiply me by 2, the result is intact. What number am I?",
+            "options": [
+                "1/8",
+                "1/4",
+                "1/2",
+                "3/8"
+            ],
+            "optionImages": null,
+            "answer": [
+                "1/8"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": "I'm a rational number, not too small nor too large, My reciprocal is 4, in math, I take charge. Subtract me from 7/3, the answer is near, What number am I? Be quick, have no fear!",
+            "options": [
+                "3/7",
+                "4/7",
+                "2/7",
+                "1/7"
+            ],
+            "optionImages": null,
+            "answer": [
+                "3/7 "
+            ],
+            "Trivia": null
+        }
+    ]
+}

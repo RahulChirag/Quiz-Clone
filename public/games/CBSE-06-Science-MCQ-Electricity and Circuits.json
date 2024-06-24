@@ -1,0 +1,135 @@
+{
+    "gameTitle": "Electricity and Circuits",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "What does an electric cell provide to devices?",
+            "options": [
+                "Light",
+                "Electricity",
+                "Heat",
+                "Sound"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Electricity"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "Which material allows electric current to pass through it?",
+            "options": [
+                "Wood",
+                "Plastic",
+                "Metal",
+                "Glass"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Metal"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "What does the danger sign for electricity indicate?",
+            "options": [
+                "Safety",
+                "Fun",
+                "Danger",
+                "Education"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Danger"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "Why are rubber gloves used by electricians?",
+            "options": [
+                "To keep hands warm",
+                "To improve grip",
+                "To prevent electric shocks",
+                "To enhance visibility"
+            ],
+            "optionImages": null,
+            "answer": [
+                "To prevent electric shocks"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "Which device breaks or completes an electric circuit?",
+            "options": [
+                "Remote",
+                "Battery",
+                "Switch",
+                "Magnet"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Switch"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": "I'm a material that lets current flow with ease, like a superhero to electricity I please. What am I?",
+            "options": [
+                "Rubber",
+                "Glass",
+                "Insulator",
+                "Conductor"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Conductor"
+            ],
+            "Trivia": "\"I conduct electricity like a rockstar, not like rubber that's just too bizarre!\""
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": "Tools of the trade, with covers made, protect from shocks that could invade. What are they?",
+            "options": [
+                "Metal handle",
+                "Wooden handles",
+                "Plastic or rubber covers",
+                "Glass covers"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Plastic or rubber covers"
+            ],
+            "Trivia": "\"Plastic or rubber, not just for looks, but to keep you safe from electrical cooks!\""
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": "Insulators stand tall, blocking the flow, no current can pass, they say no-no. Can you name a few?",
+            "options": [
+                "Metal, Copper, Iron",
+                "Plastic, Rubber, Glass",
+                "Wood, Paper, Fabric",
+                "Diamonds, Gold, Silver"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Plastic, Rubber, Glass"
+            ],
+            "Trivia": "\"They stand strong, in the current's throng, insulators they are, nothing can go wrong!\""
+        }
+    ]
+}

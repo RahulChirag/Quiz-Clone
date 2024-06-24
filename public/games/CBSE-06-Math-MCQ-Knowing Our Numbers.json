@@ -1,0 +1,87 @@
+{
+    "gameTitle": "Knowing Our Numbers",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "Choose the correct ascending order of the following numbers, 543, 367, 307, 534, 650, 453, 435",
+            "options": [
+                "367, 307, 534, 543, 453, 435,650",
+                "307, 367, 453, 534, 543, 435,650",
+                "307, 367, 435, 453, 534, 543, 650",
+                "367, 307, 453, 435, 534, 543, 650"
+            ],
+            "optionImages": null,
+            "answer": [
+                "307, 367, 435, 453, 534, 543, 650"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "Choose the correct ascending order of the following numbers, 779, 979, 797,977, 777",
+            "options": [
+                "797, 779, 979, 977, 777",
+                "777, 797, 779, 979, 977",
+                "777, 779, 979, 797, 977",
+                "777, 779, 797, 979, 977"
+            ],
+            "optionImages": null,
+            "answer": [
+                "777, 797, 779, 979, 977"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "What would be the greatest 4 digit number using the given numbers, without repeating them. 4, 7,3,9?",
+            "options": [
+                "4973",
+                "9743",
+                "9473",
+                "7349"
+            ],
+            "optionImages": null,
+            "answer": [
+                "9743"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "What is the sum of the smallest 5-digit number and the greatest 4-digit number?",
+            "options": [
+                "9999",
+                "99999",
+                "100000",
+                "100001"
+            ],
+            "optionImages": null,
+            "answer": [
+                "100000"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "What is the place value of 7 in the number 26,785?",
+            "options": [
+                "70",
+                "700",
+                "7",
+                "7000"
+            ],
+            "optionImages": null,
+            "answer": [
+                "700"
+            ],
+            "Trivia": null
+        }
+    ]
+}

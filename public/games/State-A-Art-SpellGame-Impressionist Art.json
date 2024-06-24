@@ -1,0 +1,14 @@
+{
+  "gameTitle": "Impressionist Art",
+  "gameType": "SpellGame",
+  "eachQuestionDuration": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "To be, or not to be, that is * ?",
+      "word": "Shell",
+      "trivia": "This famous line is from Hamlet, Act III, Scene I.",
+      "answer": "To be, or not to be, that is the question."
+    }
+  ]
+}

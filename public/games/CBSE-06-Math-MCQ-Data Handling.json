@@ -1,0 +1,132 @@
+{
+    "gameTitle": "Data Handling",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "What is a collection of numbers gathered to give information?",
+            "options": [
+                "Tally marks",
+                "Data table",
+                "Data",
+                "Information"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Data"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "How is data arranged quickly for specific information?",
+            "options": [
+                "Using bar graphs",
+                "Using tally marks",
+                "Using scatter plots",
+                "Using pie charts"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Using tally marks"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "Which method is used to represent the number of occurrences of data?",
+            "options": [
+                "Data graphing",
+                "Tallying",
+                "Tabulation",
+                "Data sorting"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Tallying"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "What is the purpose of recording data?",
+            "options": [
+                "To confuse",
+                "To organize",
+                "To entertain",
+                "To complicate"
+            ],
+            "optionImages": null,
+            "answer": [
+                "To organize"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "How is data represented in a pictograph?",
+            "options": [
+                "Using numbers",
+                "Using symbols",
+                "Using tally marks",
+                "Using shapes"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Using symbols"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": "Why did the data go to the party?",
+            "options": [
+                "To dance with the numbers",
+                "To mingle with the statistics",
+                "To have a byte to eat"
+            ],
+            "optionImages": null,
+            "answer": [
+                "To dance with the numbers"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": "Why did the tally marks feel unbalanced?",
+            "options": [
+                "They couldn't count on each other",
+                "They had too many ups and downs",
+                "They needed a line graph to straighten things out"
+            ],
+            "optionImages": null,
+            "answer": [
+                "They couldn't count on each other"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": "Why was the data scientist always calm?",
+            "options": [
+                "Because they knew how to handle the data",
+                "Because they always had a backup plan",
+                "Because they had a good sense of \"data-stress-tics\""
+            ],
+            "optionImages": null,
+            "answer": [
+                "Because they had a good sense of \"data-stress-tics\""
+            ],
+            "Trivia": null
+        }
+    ]
+}

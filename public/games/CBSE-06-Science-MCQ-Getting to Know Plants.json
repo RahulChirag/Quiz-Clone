@@ -1,0 +1,132 @@
+{
+    "gameTitle": "Getting to Know Plants",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "What is the main purpose of observing different plants?",
+            "options": [
+                "To learn about plant sizes",
+                "To understand plant diversity",
+                "To identify plant colours",
+                "To count plant species"
+            ],
+            "optionImages": null,
+            "answer": [
+                "To understand plant diversity"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "Which part of a plant is responsible for photosynthesis?",
+            "options": [
+                "Root",
+                "Stem",
+                "Leaf",
+                "Flower"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Leaf"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "Plants with green and tender stems are categorized as?",
+            "options": [
+                "Trees",
+                "Shrubs",
+                "Herbs",
+                "Weeds"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Herbs"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "Where can you find examples of herbs, shrubs, and trees?",
+            "options": [
+                "In the ocean",
+                "In the desert",
+                "In the forest",
+                "In the kitchen"
+            ],
+            "optionImages": null,
+            "answer": [
+                "In the forest"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "What are the three main categories of plants discussed?",
+            "options": [
+                "Vines, Ferns, Mosses",
+                "Herbs, Shrubs, Trees",
+                "Fruits, Vegetables, Flowers",
+                "Cacti, Succulents, Palms}\n"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Herbs, Shrubs, Trees"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": "I am underground, anchoring the plant and absorbing nutrients and water. Without me, the plant would struggle to stand tall. What am I?",
+            "options": [
+                "Leaf",
+                "Fruit",
+                "Root"
+            ],
+            "optionImages": null,
+            "answer": [
+                " {Root"
+            ],
+            "Trivia": "I may be underground, but I'm the root of the plant's success!"
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": "I am the part of the plant that contains seeds and comes in various shapes, sizes, and flavors. Some say I'm the sweet reward of the plant's hard work. What am I?",
+            "options": [
+                "Stem",
+                "Leaf",
+                "Fruit"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Fruit"
+            ],
+            "Trivia": "I may be fruity, but I'm no nut!"
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": "I am green and come in many shapes and sizes. Some say I am the food factory of the plant. What am I?",
+            "options": [
+                "Stem",
+                "Leaf",
+                "Flower"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Leaf"
+            ],
+            "Trivia": "Because I'm always at the \"leaf\" of the plant party!"
+        }
+    ]
+}

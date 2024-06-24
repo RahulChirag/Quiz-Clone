@@ -1,0 +1,135 @@
+{
+    "gameTitle": "Body Movements",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "What is joined together at joints in our body?",
+            "options": [
+                "Muscles",
+                "Bones",
+                "Cartilages",
+                "Ligaments"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Bones"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "Which animals have an outer skeleton?",
+            "options": [
+                "Cockroaches",
+                "Snakes",
+                "Dogs",
+                "Birds"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Cockroaches"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "Which type of joint allows rotation like a ball and socket?",
+            "options": [
+                "Hinge joint",
+                "Pivot joint",
+                "Ball and socket joint",
+                "Gliding joint}\n"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Ball and socket joint"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "What cannot be bent in our body?",
+            "options": [
+                "Muscles",
+                "Tendons",
+                "Joints",
+                "Bones"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Bones"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "How many bones are present in each part of the body?",
+            "options": [
+                "One",
+                "Two",
+                "Many",
+                "None"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Many"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": "I'm found in the knee and the shoulder, Allowing movement with great power. Which joint am I?",
+            "options": [
+                " {Pivot Joint",
+                "Hinge Joint",
+                "Ball and Socket Joint",
+                "Gliding Joint"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Ball and Socket Joint"
+            ],
+            "Trivia": "Why did the ball and socket joint get the award? It always knows how to move with grace!"
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": "I'm attached to your muscles, Helping you move without any tussles. What part of the body am I?",
+            "options": [
+                "Cartilage",
+                "Ligament",
+                "Tendon",
+                "Blood Vessel"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Tendon"
+            ],
+            "Trivia": "Why did the tendon break up with the muscle? It just couldn't hold it together anymore!"
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": "I'm the place where bones meet, Helping you dance to the beat.What am I?",
+            "options": [
+                "Muscle",
+                "Joint",
+                "Skin",
+                "Nerve}\n"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Joint"
+            ],
+            "Trivia": "Why did the joint break up with the bone? It couldn't handle the pressure anymore!"
+        }
+    ]
+}

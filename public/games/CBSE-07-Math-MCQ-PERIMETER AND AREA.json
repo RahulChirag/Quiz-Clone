@@ -1,0 +1,135 @@
+{
+    "gameTitle": "PERIMETER AND AREA",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": " When the circumference and area of a circle are numerically equal, what is the diameter numerically equal to?",
+            "options": [
+                "Area",
+                "Circumference",
+                "271",
+                "4"
+            ],
+            "optionImages": null,
+            "answer": [
+                "4"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "A circular flower bed is surrounded by a path 4 m wide. The diameter of the flower bed is 66 m. The area of the path is ___ m\u00b2.",
+            "options": [
+                "334 m2",
+                "245 m2",
+                "448 m\u00b2",
+                "432 m2"
+            ],
+            "optionImages": null,
+            "answer": [
+                "448 m\u00b2"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "A wire is bent to form a square of side 22 cm. If the wire is rebent to form a circle, its radius is",
+            "options": [
+                "22 cm",
+                "14 cm",
+                " 11 cm",
+                "7 cm"
+            ],
+            "optionImages": null,
+            "answer": [
+                "14 cm"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": "If the area of a parallelogram is 64 cm\u00b2 and the base is 8 cm, what would be the perimeter of the parallelogram?",
+            "options": [
+                "32 cm",
+                "40 cm",
+                "48 cm",
+                "56 cm"
+            ],
+            "optionImages": null,
+            "answer": [
+                "48 cm"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "Consider a parallelogram with base 10 units and height 6 units. If the parallelogram is converted into a rectangle, what will be the length and breadth of the rectangle?",
+            "options": [
+                "Length = 10 units, Breadth = 6 units",
+                "Length = 6 units, Breadth = 10 units",
+                "Length = 16 units, Breadth = 6 units",
+                "Length = 6 units, Breadth = 16 units"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Length = 10 units, Breadth = 6 units"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": "I have no beginning\nI know no end\nI bites my tail\nWhat am I?",
+            "options": [
+                "A circle",
+                "An ouroboros",
+                "A snake",
+                "A wheel"
+            ],
+            "optionImages": null,
+            "answer": [
+                "I am a circle!"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": "I am a figure with three sides, My angles can be acute or wide. To find my area, you must use base and height, Half the product, you'll get it right.",
+            "options": [
+                "Rectangle",
+                "Square",
+                "Circle",
+                "Triangle"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Triangle"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": "In the realm of shapes, I am a peculiar sight, Half of the circle's area is what you seek, To solve this riddle, patience is what you'll need to peek.",
+            "options": [
+                "Quarter Circle",
+                "Semicircle",
+                "Triangle",
+                "Rectangle"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Range"
+            ],
+            "Trivia": null
+        }
+    ]
+}

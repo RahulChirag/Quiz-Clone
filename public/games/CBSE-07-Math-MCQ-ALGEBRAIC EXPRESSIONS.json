@@ -1,0 +1,135 @@
+{
+    "gameTitle": "ALGEBRAIC EXPRESSIONS",
+    "gameType": "MCQ",
+    "eachQuestionDuration": 30,
+    "questions": [
+        {
+            "id": 1,
+            "questionImage": null,
+            "question": "In the expression 2xy^2 - x^2 + y, how many terms are there?",
+            "options": [
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "optionImages": null,
+            "answer": [
+                "3"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 2,
+            "questionImage": null,
+            "question": "Which of the following is not a polynomial?",
+            "options": [
+                "2x^2 - 3x + 1",
+                "5/x + 7",
+                "x^4 + x^3 + x^2 + x + 1",
+                "3x^3y^2 - 2x"
+            ],
+            "optionImages": null,
+            "answer": [
+                "5/x + 7"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 3,
+            "questionImage": null,
+            "question": "Which expression does not have a numerical coefficient?",
+            "options": [
+                "4ab + 3",
+                "2x - 5",
+                "y + z",
+                "10m + 7n"
+            ],
+            "optionImages": null,
+            "answer": [
+                "y + z"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 4,
+            "questionImage": null,
+            "question": " In which of the following, the two expressions are like terms?",
+            "options": [
+                "7x and 7y",
+                "7x and 9x",
+                "7x and 7x2",
+                "7x and 7xy"
+            ],
+            "optionImages": null,
+            "answer": [
+                "7x and 9x"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 5,
+            "questionImage": null,
+            "question": "If 2x + 3y - 5x + y = 7, what is the value of y?",
+            "options": [
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "optionImages": null,
+            "answer": [
+                "2"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 6,
+            "questionImage": null,
+            "question": "I am a mysterious entity, Made of numbers and letters with glee. Not a word, nor a phrase, But a mathematical craze. What am I?",
+            "options": [
+                "An algebraic expression",
+                "A Code",
+                "A Puzzle",
+                "An Equation"
+            ],
+            "optionImages": null,
+            "answer": [
+                "An algebraic expression"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 7,
+            "questionImage": null,
+            "question": "I am a pair, a duo, a set of two,\nWith two terms, I'm simple and true.\nAdd or subtract, that's what I show,\nWith coefficients and variables, in a row.\nWhat am I?",
+            "options": [
+                "Monomial",
+                "Binomial",
+                "Trinomial",
+                "Polynomial"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Binomial"
+            ],
+            "Trivia": null
+        },
+        {
+            "id": 8,
+            "questionImage": null,
+            "question": "I am a number, but not just any,\nBefore a variable, I stand so many.\nI multiply its value, but don't be misled,\nI'm the numerical part, that's what's said.\nWhat am I?",
+            "options": [
+                "Exponent",
+                "Coefficient",
+                "Constant",
+                "Variable"
+            ],
+            "optionImages": null,
+            "answer": [
+                "Coefficient"
+            ],
+            "Trivia": null
+        }
+    ]
+}
